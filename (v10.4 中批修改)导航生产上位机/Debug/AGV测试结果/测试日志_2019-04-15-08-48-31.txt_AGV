@@ -1,0 +1,128 @@
+
+========08:48:31 匀速测试========
+
+08:48:33 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:33 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:33 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:33 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:33 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:34 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:34 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:34 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:34 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:34 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:34 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:34 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:35 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:35 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:35 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:35 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:35 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:35 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:35 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:37 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:37 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:37 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:37 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:37 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:37 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:37 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:37 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:37 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:37 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:37 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:37 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:38 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:38 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:38 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:38 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:48:38 sAN mNPOSGetPose 1 0 1 1 0 0 0 1 1 15AA15 0 3 4349E7 0
+解析后为：1, 0, 0, 1419797, 15AA15
+08:48:39 sAN mNPOSGetPose 1 0 1 1 0 0 0 1 1 15AB0D 0 3 4349E7 0
+解析后为：2, 0, 0, 248, 15AB0D
+08:48:39 sAN mNPOSGetPose 1 0 1 1 0 0 0 1 1 15AB89 0 3 4349E7 0
+解析后为：3, 0, 0, 124, 15AB89
+08:48:39 sAN mNPOSGetPose 1 0 1 1 0 0 0 1 1 15AC06 0 3 4349E7 0
+解析后为：4, 0, 0, 125, 15AC06
+08:48:39 sAN mNPOSGetPose 1 0 1 1 0 0 0 1 1 15AC82 0 3 4349E7 0
+解析后为：5, 0, 0, 124, 15AC82
+08:48:39 sAN mNPOSGetPose 1 0 1 1 0 0 0 1 1 15AD7C 0 3 4349E7 0
+解析后为：6, 0, 0, 250, 15AD7C
+08:48:39 sAN mNPOSGetPose 1 0 1 1 0 0 0 1 1 15ADF8 0 3 4349E7 0
+解析后为：7, 0, 0, 124, 15ADF8
+08:48:39 sAN mNPOSGetPose 1 0 1 1 0 0 0 1 1 15AE75 0 3 4349E7 0
+解析后为：8, 0, 0, 125, 15AE75
+08:48:40 sAN mNPOSGetPose 1 0 1 1 0 0 0 1 1 15AEF1 0 3 4349E7 0
+解析后为：9, 0, 0, 124, 15AEF1
+08:48:40 sAN mNPOSGetPose 1 0 1 1 0 0 0 1 1 15AF6D 0 3 4349E7 0
+解析后为：10, 0, 0, 124, 15AF6D

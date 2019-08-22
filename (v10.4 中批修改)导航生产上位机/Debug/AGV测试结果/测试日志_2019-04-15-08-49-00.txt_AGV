@@ -1,0 +1,97 @@
+
+========08:49:00 匀速测试========
+
+08:49:01 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:01 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:02 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:02 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:02 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:02 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:03 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:03 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:03 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:03 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:03 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:03 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:03 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:04 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:04 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:04 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:04 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:06 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:06 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:06 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:06 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:06 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:07 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:07 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:07 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:07 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+08:49:07 sAN mNPOSGetPose 1 0 1 1 0 0 0 1 1 161A57 0 3 4349E7 0
+解析后为：1, 0, 0, 27370, 161A57
+08:49:07 sAN mNPOSGetPose 1 0 1 1 0 0 0 1 1 161AD3 0 3 4349E7 0
+解析后为：2, 0, 0, 124, 161AD3
+08:49:07 sAN mNPOSGetPose 1 0 1 1 0 0 0 1 1 161B4F 0 3 4349E7 0
+解析后为：3, 0, 0, 124, 161B4F
+08:49:07 sAN mNPOSGetPose 1 0 1 1 0 0 0 1 1 161BCC 0 3 4349E7 0
+解析后为：4, 0, 0, 125, 161BCC
+08:49:08 sAN mNPOSGetPose 1 0 1 1 0 0 0 1 1 161C48 0 3 4349E7 0
+解析后为：5, 0, 0, 124, 161C48
+08:49:08 sAN mNPOSGetPose 1 0 1 1 0 0 0 1 1 161D41 0 3 4349E7 0
+解析后为：6, 0, 0, 249, 161D41
+08:49:08 sAN mNPOSGetPose 1 0 1 1 0 0 0 1 1 161DBD 0 3 4349E7 0
+解析后为：7, 0, 0, 124, 161DBD
+08:49:08 sAN mNPOSGetPose 1 0 1 1 0 0 0 1 1 161E3A 0 3 4349E7 0
+解析后为：8, 0, 0, 125, 161E3A

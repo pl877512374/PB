@@ -1,0 +1,1525 @@
+﻿生成启动时间为 2019/6/5 10:31:42。
+     1>项目“C:\Users\0\Desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\Laser\Laser.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\Laser /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Laser.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\Laser /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Laser.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AGVTestCfg.cpp AGVTestDlg.cpp ArmUartDlg.cpp BottomLView.cpp BottomRView.cpp BroadCastDlg.cpp ControlForm.cpp CRC16.cpp DatagramSocket.cpp DiagnosisDlg.cpp DInterpDlg.cpp DustDlg.cpp FileUtils.cpp File\CDMLogInfo.cpp FPGADownloadDlg.cpp GraphForm2d.cpp GraphForm2dState.cpp GraphForm3d.cpp InputDlg.cpp InsideApI.cpp Interp.cpp IssueDlg.cpp Laser.cpp LaserDoc.cpp LaserView.cpp MainFrm.cpp MySplitter.cpp MyWriteLog.cpp NetParam.cpp NetWork\NetworkUtils.cpp OperateExcelFile.cpp ProgramDownDlg.cpp Scan2dCfg.cpp Scan3dCfg.cpp Scanf2dDlg.cpp Scanf3dDlg.cpp ServerIPDlg.cpp SetAppDlg.cpp SetFormView.cpp SetProdDlg.cpp SetRdDlg.cpp Si2dCfg.cpp SIMUAGVTEST.cpp SIMUAGVTESTDLG.cpp Single2dDlg.cpp SystemLoad.cpp tchart1.cpp TemperCfg.cpp TemperRecordDlg.cpp TopLView.cpp TopRView.cpp UartCfg.cpp UartDataDlg.cpp Uart\SerialUtils.cpp Utils\TeeChart\adxfunction.cpp Utils\TeeChart\amountfilter.cpp Utils\TeeChart\annotationcallout.cpp Utils\TeeChart\annotationtool.cpp Utils\TeeChart\antialiastool.cpp Utils\TeeChart\areaseries.cpp Utils\TeeChart\arrowseries.cpp Utils\TeeChart\aspect.cpp Utils\TeeChart\averagefunction.cpp Utils\TeeChart\axes.cpp Utils\TeeChart\axis.cpp Utils\TeeChart\axisarrowtool.cpp Utils\TeeChart\axisgridpen.cpp Utils\TeeChart\axislabels.cpp Utils\TeeChart\axislabelsitem.cpp Utils\TeeChart\axisscrolltool.cpp Utils\TeeChart\axistitle.cpp Utils\TeeChart\backimage.cpp Utils\TeeChart\bannertool.cpp Utils\TeeChart\bar3dseries.cpp Utils\TeeChart\barjoinseries.cpp Utils\TeeChart\barseries.cpp Utils\TeeChart\bevelfilter.cpp Utils\TeeChart\bezierseries.cpp Utils\TeeChart\blurfilter.cpp Utils\TeeChart\bmpexport.cpp Utils\TeeChart\bollingerfunction.cpp Utils\TeeChart\boxplotseries.cpp Utils\TeeChart\brightnessfilter.cpp Utils\TeeChart\brush.cpp Utils\TeeChart\bubble3dseries.cpp Utils\TeeChart\bubbleseries.cpp Utils\TeeChart\calendarcell.cpp Utils\TeeChart\calendarcellupper.cpp Utils\TeeChart\calendarseries.cpp Utils\TeeChart\candleseries.cpp Utils\TeeChart\canvas.cpp Utils\TeeChart\ccifunction.cpp Utils\TeeChart\chartaxispen.cpp Utils\TeeChart\chartfont.cpp Utils\TeeChart\charthiddenpen.cpp Utils\TeeChart\chartimagetool.cpp Utils\TeeChart\circlelabels.cpp Utils\TeeChart\circulargauge.cpp Utils\TeeChart\clipseriestool.cpp Utils\TeeChart\clockseries.cpp Utils\TeeChart\clvfunction.cpp Utils\TeeChart\colorbandtool.cpp Utils\TeeChart\colorfilter.cpp Utils\TeeChart\colorgridseries.cpp Utils\TeeChart\colorlinetool.cpp Utils\TeeChart\compressfunction.cpp Utils\TeeChart\contourlevel.cpp Utils\TeeChart\contourlevels.cpp Utils\TeeChart\contourmarks.cpp Utils\TeeChart\contourseries.cpp Utils\TeeChart\contrastfilter.cpp Utils\TeeChart\cropfilter.cpp Utils\TeeChart\cursortool.cpp Utils\TeeChart\curvefittingfunction.cpp Utils\TeeChart\custom3dpaletteseries.cpp Utils\TeeChart\customfunction.cpp Utils\TeeChart\customserieslist.cpp Utils\TeeChart\darvasseries.cpp Utils\TeeChart\datatabletool.cpp Utils\TeeChart\deltapointseries.cpp Utils\TeeChart\donutseries.cpp Utils\TeeChart\downsamplingfunction.cpp Utils\TeeChart\dragmarkstool.cpp Utils\TeeChart\dragpointtool.cpp Utils\TeeChart\drawline.cpp Utils\TeeChart\drawlinelist.cpp Utils\TeeChart\drawlinetool.cpp Utils\TeeChart\embossfilter.cpp Utils\TeeChart\environment.cpp Utils\TeeChart\epsexport.cpp Utils\TeeChart\errorbarseries.cpp Utils\TeeChart\errorseries.cpp Utils\TeeChart\expavgfunction.cpp Utils\TeeChart\explodedslices.cpp Utils\TeeChart\expmovavgfunction.cpp Utils\TeeChart\export.cpp Utils\TeeChart\extralegendtool.cpp Utils\TeeChart\fadertool.cpp Utils\TeeChart\fastlineseries.cpp Utils\TeeChart\fibonacciitem.cpp Utils\TeeChart\fibonaccilevels.cpp Utils\TeeChart\fibonaccitool.cpp Utils\TeeChart\filteritems.cpp Utils\TeeChart\filterregion.cpp Utils\TeeChart\floatxyz.cpp Utils\TeeChart\framebrush.cpp Utils\TeeChart\framedborder.cpp Utils\TeeChart\frametool.cpp Utils\TeeChart\fullscreentool.cpp Utils\TeeChart\funnelseries.cpp Utils\TeeChart\gammacorrectionfilter.cpp Utils\TeeChart\ganttseries.cpp Utils\TeeChart\gantttool.cpp Utils\TeeChart\gaugepointerrange.cpp Utils\TeeChart\gaugeseries.cpp Utils\TeeChart\gaugeseriespointer.cpp Utils\TeeChart\gifexport.cpp Utils\TeeChart\gllightsource.cpp Utils\TeeChart\glposition.cpp Utils\TeeChart\gradient.cpp Utils\TeeChart\grayscalefilter.cpp Utils\TeeChart\gridbandbrush.cpp Utils\TeeChart\gridbandtool.cpp Utils\TeeChart\gridtransposetool.cpp Utils\TeeChart\highlowlineseries.cpp Utils\TeeChart\highlowseries.cpp Utils\TeeChart\histogramfunction.cpp Utils\TeeChart\histogramseries.cpp Utils\TeeChart\horizareaseries.cpp Utils\TeeChart\horizbarseries.cpp Utils\TeeChart\horizboxplotseries.cpp Utils\TeeChart\horizhistogramseries.cpp Utils\TeeChart\horizlineseries.cpp Utils\TeeChart\htmlexport.cpp Utils\TeeChart\huelumsatfilter.cpp Utils\TeeChart\imagebarseries.cpp Utils\TeeChart\imagepointseries.cpp Utils\TeeChart\import.cpp Utils\TeeChart\isosurfaceseries.cpp Utils\TeeChart\jpegexport.cpp Utils\TeeChart\kagiseries.cpp Utils\TeeChart\legend.cpp Utils\TeeChart\legenditem.cpp Utils\TeeChart\legenditems.cpp Utils\TeeChart\legendpalettetool.cpp Utils\TeeChart\legendscrollbartool.cpp Utils\TeeChart\legendsymbol.cpp Utils\TeeChart\legendtitle.cpp Utils\TeeChart\levelsegment.cpp Utils\TeeChart\lighttool.cpp Utils\TeeChart\lineargauge.cpp Utils\TeeChart\lineseries.cpp Utils\TeeChart\linktool.cpp Utils\TeeChart\macdfunction.cpp Utils\TeeChart\magnifytool.cpp Utils\TeeChart\mappolygon.cpp Utils\TeeChart\mappolygonlist.cpp Utils\TeeChart\mapseries.cpp Utils\TeeChart\margins.cpp Utils\TeeChart\marks.cpp Utils\TeeChart\markscallout.cpp Utils\TeeChart\marksitem.cpp Utils\TeeChart\markssymbol.cpp Utils\TeeChart\markstiptool.cpp Utils\TeeChart\medianfunction.cpp Utils\TeeChart\metafileexport.cpp Utils\TeeChart\mirrorfilter.cpp Utils\TeeChart\modefunction.cpp Utils\TeeChart\mosaicfilter.cpp Utils\TeeChart\movingavgfunction.cpp Utils\TeeChart\nativeexport.cpp Utils\TeeChart\nearesttool.cpp Utils\TeeChart\numericgauge.cpp Utils\TeeChart\numericmarker.cpp Utils\TeeChart\obvfunction.cpp Utils\TeeChart\orgitem.cpp Utils\TeeChart\orgitemcollection.cpp Utils\TeeChart\orgseries.cpp Utils\TeeChart\orgshape.cpp Utils\TeeChart\page.cpp Utils\TeeChart\pagenumtool.cpp Utils\TeeChart\panel.cpp Utils\TeeChart\pcxexport.cpp Utils\TeeChart\pdfexport.cpp Utils\TeeChart\pen.cpp Utils\TeeChart\performancefunction.cpp Utils\TeeChart\piemarks.cpp Utils\TeeChart\pieotherslice.cpp Utils\TeeChart\pieseries.cpp Utils\TeeChart\pietool.cpp Utils\TeeChart\pngexport.cpp Utils\TeeChart\point3dseries.cpp Utils\TeeChart\pointarray.cpp Utils\TeeChart\pointer.cpp Utils\TeeChart\pointfigureseries.cpp Utils\TeeChart\pointseries.cpp Utils\TeeChart\polarbarseries.cpp Utils\TeeChart\polargridseries.cpp Utils\TeeChart\polarseries.cpp Utils\TeeChart\printer.cpp Utils\TeeChart\printersettings.cpp Utils\TeeChart\pvofunction.cpp Utils\TeeChart\pyramidseries.cpp Utils\TeeChart\radarseries.cpp Utils\TeeChart\rectangletool.cpp Utils\TeeChart\renkoseries.cpp Utils\TeeChart\resizefilter.cpp Utils\TeeChart\rmsfunction.cpp Utils\TeeChart\rotatefilter.cpp Utils\TeeChart\rotatetool.cpp Utils\TeeChart\rsifunction.cpp Utils\TeeChart\sarfunction.cpp Utils\TeeChart\scroll.cpp Utils\TeeChart\scrollbarthumb.cpp Utils\TeeChart\selectortool.cpp Utils\TeeChart\series.cpp Utils\TeeChart\seriesanimationtool.cpp Utils\TeeChart\seriesbandtool.cpp Utils\TeeChart\seriesgroup.cpp Utils\TeeChart\seriesgroups.cpp Utils\TeeChart\serieslist.cpp Utils\TeeChart\seriesmarkposition.cpp Utils\TeeChart\seriesmarkspositions.cpp Utils\TeeChart\seriesregiontool.cpp Utils\TeeChart\seriesstatstool.cpp Utils\TeeChart\shapeseries.cpp Utils\TeeChart\sharpenfilter.cpp Utils\TeeChart\smithseries.cpp Utils\TeeChart\smoothingfunction.cpp Utils\TeeChart\smoothpoints.cpp Utils\TeeChart\softenfilter.cpp Utils\TeeChart\spacing.cpp Utils\TeeChart\stddeviationfunction.cpp Utils\TeeChart\strings.cpp Utils\TeeChart\subgradient.cpp Utils\TeeChart\subsetteefunction.cpp Utils\TeeChart\surfacenearesttool.cpp Utils\TeeChart\surfaceseries.cpp Utils\TeeChart\surfacesides.cpp Utils\TeeChart\svgexport.cpp Utils\TeeChart\tablelegend.cpp Utils\TeeChart\tagcloudseries.cpp Utils\TeeChart\tchart.cpp Utils\TeeChart\teecustomshape.cpp Utils\TeeChart\teefilter.cpp Utils\TeeChart\teefont.cpp Utils\TeeChart\teefunction.cpp Utils\TeeChart\teeopengl.cpp Utils\TeeChart\teepicture.cpp Utils\TeeChart\teepoint2d.cpp Utils\TeeChart\teepoint3d.cpp Utils\TeeChart\teerect.cpp Utils\TeeChart\teeshadow.cpp Utils\TeeChart\teeshape.cpp Utils\TeeChart\teeshapepanel.cpp Utils\TeeChart\text3dtool.cpp Utils\TeeChart\textexport.cpp Utils\TeeChart\tilefilter.cpp Utils\TeeChart\titles.cpp Utils\TeeChart\toollist.cpp Utils\TeeChart\tools.cpp Utils\TeeChart\towerseries.cpp Utils\TeeChart\transposeseriestool.cpp Utils\TeeChart\trendfunction.cpp Utils\TeeChart\trisurfaceseries.cpp Utils\TeeChart\valuelist.cpp Utils\TeeChart\valuelists.cpp Utils\TeeChart\vector3dseries.cpp Utils\TeeChart\videoplayertool.cpp Utils\TeeChart\videotool.cpp Utils\TeeChart\volumepipeseries.cpp Utils\TeeChart\volumeseries.cpp Utils\TeeChart\wall.cpp Utils\TeeChart\walls.cpp Utils\TeeChart\waterfallseries.cpp Utils\TeeChart\windroseseries.cpp Utils\TeeChart\worldseries.cpp Utils\TeeChart\xamlexport.cpp Utils\TeeChart\xlsexport.cpp Utils\TeeChart\xmlexport.cpp Utils\TeeChart\zoom.cpp Utils\TeeChart\zoomfilter.cpp WriteLog.cpp
+         WriteLog.cpp
+         zoomfilter.cpp
+         zoom.cpp
+         xmlexport.cpp
+         xlsexport.cpp
+         xamlexport.cpp
+         worldseries.cpp
+         windroseseries.cpp
+         waterfallseries.cpp
+         walls.cpp
+         wall.cpp
+         volumeseries.cpp
+         volumepipeseries.cpp
+         videotool.cpp
+         videoplayertool.cpp
+         vector3dseries.cpp
+         valuelists.cpp
+         valuelist.cpp
+         trisurfaceseries.cpp
+         trendfunction.cpp
+         正在生成代码...
+         正在编译...
+         transposeseriestool.cpp
+         towerseries.cpp
+         tools.cpp
+         toollist.cpp
+         titles.cpp
+         tilefilter.cpp
+         textexport.cpp
+         text3dtool.cpp
+         teeshapepanel.cpp
+         teeshape.cpp
+         teeshadow.cpp
+         teerect.cpp
+         teepoint3d.cpp
+         teepoint2d.cpp
+         teepicture.cpp
+         teeopengl.cpp
+         teefunction.cpp
+         teefont.cpp
+         teefilter.cpp
+         teecustomshape.cpp
+         正在生成代码...
+         正在编译...
+         tchart.cpp
+         tagcloudseries.cpp
+         tablelegend.cpp
+         svgexport.cpp
+         surfacesides.cpp
+         surfaceseries.cpp
+         surfacenearesttool.cpp
+         subsetteefunction.cpp
+         subgradient.cpp
+         strings.cpp
+         stddeviationfunction.cpp
+         spacing.cpp
+         softenfilter.cpp
+         smoothpoints.cpp
+         smoothingfunction.cpp
+         smithseries.cpp
+         sharpenfilter.cpp
+         shapeseries.cpp
+         seriesstatstool.cpp
+         seriesregiontool.cpp
+         正在生成代码...
+         正在编译...
+         seriesmarkspositions.cpp
+         seriesmarkposition.cpp
+         serieslist.cpp
+         seriesgroups.cpp
+         seriesgroup.cpp
+         seriesbandtool.cpp
+         seriesanimationtool.cpp
+         series.cpp
+         selectortool.cpp
+         scrollbarthumb.cpp
+         scroll.cpp
+         sarfunction.cpp
+         rsifunction.cpp
+         rotatetool.cpp
+         rotatefilter.cpp
+         rmsfunction.cpp
+         resizefilter.cpp
+         renkoseries.cpp
+         rectangletool.cpp
+         radarseries.cpp
+         正在生成代码...
+         正在编译...
+         pyramidseries.cpp
+         pvofunction.cpp
+         printersettings.cpp
+         printer.cpp
+         polarseries.cpp
+         polargridseries.cpp
+         polarbarseries.cpp
+         pointseries.cpp
+         pointfigureseries.cpp
+         pointer.cpp
+         pointarray.cpp
+         point3dseries.cpp
+         pngexport.cpp
+         pietool.cpp
+         pieseries.cpp
+         pieotherslice.cpp
+         piemarks.cpp
+         performancefunction.cpp
+         pen.cpp
+         pdfexport.cpp
+         正在生成代码...
+         正在编译...
+         pcxexport.cpp
+         panel.cpp
+         pagenumtool.cpp
+         page.cpp
+         orgshape.cpp
+         orgseries.cpp
+         orgitemcollection.cpp
+         orgitem.cpp
+         obvfunction.cpp
+         numericmarker.cpp
+         numericgauge.cpp
+         nearesttool.cpp
+         nativeexport.cpp
+         movingavgfunction.cpp
+         mosaicfilter.cpp
+         modefunction.cpp
+         mirrorfilter.cpp
+         metafileexport.cpp
+         medianfunction.cpp
+         markstiptool.cpp
+         正在生成代码...
+         正在编译...
+         markssymbol.cpp
+         marksitem.cpp
+         markscallout.cpp
+         marks.cpp
+         margins.cpp
+         mapseries.cpp
+         mappolygonlist.cpp
+         mappolygon.cpp
+         magnifytool.cpp
+         macdfunction.cpp
+         linktool.cpp
+         lineseries.cpp
+         lineargauge.cpp
+         lighttool.cpp
+         levelsegment.cpp
+         legendtitle.cpp
+         legendsymbol.cpp
+         legendscrollbartool.cpp
+         legendpalettetool.cpp
+         legenditems.cpp
+         正在生成代码...
+         正在编译...
+         legenditem.cpp
+         legend.cpp
+         kagiseries.cpp
+         jpegexport.cpp
+         isosurfaceseries.cpp
+         import.cpp
+         imagepointseries.cpp
+         imagebarseries.cpp
+         huelumsatfilter.cpp
+         htmlexport.cpp
+         horizlineseries.cpp
+         horizhistogramseries.cpp
+         horizboxplotseries.cpp
+         horizbarseries.cpp
+         horizareaseries.cpp
+         histogramseries.cpp
+         histogramfunction.cpp
+         highlowseries.cpp
+         highlowlineseries.cpp
+         gridtransposetool.cpp
+         正在生成代码...
+         正在编译...
+         gridbandtool.cpp
+         gridbandbrush.cpp
+         grayscalefilter.cpp
+         gradient.cpp
+         glposition.cpp
+         gllightsource.cpp
+         gifexport.cpp
+         gaugeseriespointer.cpp
+         gaugeseries.cpp
+         gaugepointerrange.cpp
+         gantttool.cpp
+         ganttseries.cpp
+         gammacorrectionfilter.cpp
+         funnelseries.cpp
+         fullscreentool.cpp
+         frametool.cpp
+         framedborder.cpp
+         framebrush.cpp
+         floatxyz.cpp
+         filterregion.cpp
+         正在生成代码...
+         正在编译...
+         filteritems.cpp
+         fibonaccitool.cpp
+         fibonaccilevels.cpp
+         fibonacciitem.cpp
+         fastlineseries.cpp
+         fadertool.cpp
+         extralegendtool.cpp
+         export.cpp
+         expmovavgfunction.cpp
+         explodedslices.cpp
+         expavgfunction.cpp
+         errorseries.cpp
+         errorbarseries.cpp
+         epsexport.cpp
+         environment.cpp
+         embossfilter.cpp
+         drawlinetool.cpp
+         drawlinelist.cpp
+         drawline.cpp
+         dragpointtool.cpp
+         正在生成代码...
+         正在编译...
+         dragmarkstool.cpp
+         downsamplingfunction.cpp
+         donutseries.cpp
+         deltapointseries.cpp
+         datatabletool.cpp
+         darvasseries.cpp
+         customserieslist.cpp
+         customfunction.cpp
+         custom3dpaletteseries.cpp
+         curvefittingfunction.cpp
+         cursortool.cpp
+         cropfilter.cpp
+         contrastfilter.cpp
+         contourseries.cpp
+         contourmarks.cpp
+         contourlevels.cpp
+         contourlevel.cpp
+         compressfunction.cpp
+         colorlinetool.cpp
+         colorgridseries.cpp
+         正在生成代码...
+         正在编译...
+         colorfilter.cpp
+         colorbandtool.cpp
+         clvfunction.cpp
+         clockseries.cpp
+         clipseriestool.cpp
+         circulargauge.cpp
+         circlelabels.cpp
+         chartimagetool.cpp
+         charthiddenpen.cpp
+         chartfont.cpp
+         chartaxispen.cpp
+         ccifunction.cpp
+         canvas.cpp
+         candleseries.cpp
+         calendarseries.cpp
+         calendarcellupper.cpp
+         calendarcell.cpp
+         bubbleseries.cpp
+         bubble3dseries.cpp
+         brush.cpp
+         正在生成代码...
+         正在编译...
+         brightnessfilter.cpp
+         boxplotseries.cpp
+         bollingerfunction.cpp
+         bmpexport.cpp
+         blurfilter.cpp
+         bezierseries.cpp
+         bevelfilter.cpp
+         barseries.cpp
+         barjoinseries.cpp
+         bar3dseries.cpp
+         bannertool.cpp
+         backimage.cpp
+         axistitle.cpp
+         axisscrolltool.cpp
+         axislabelsitem.cpp
+         axislabels.cpp
+         axisgridpen.cpp
+         axisarrowtool.cpp
+         axis.cpp
+         axes.cpp
+         正在生成代码...
+         正在编译...
+         averagefunction.cpp
+         aspect.cpp
+         arrowseries.cpp
+         areaseries.cpp
+         antialiastool.cpp
+         annotationtool.cpp
+         annotationcallout.cpp
+         amountfilter.cpp
+         adxfunction.cpp
+         SerialUtils.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\uart\serialutils.cpp(241): warning C4018: “<”: 有符号/无符号不匹配
+         UartDataDlg.cpp
+         UartCfg.cpp
+         TopRView.cpp
+         TopLView.cpp
+         TemperRecordDlg.cpp
+         TemperCfg.cpp
+         tchart1.cpp
+         SystemLoad.cpp
+         Single2dDlg.cpp
+         SIMUAGVTESTDLG.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\caxis.h(3): warning C4278: “LoadImage”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\caxis.h(3): warning C4278: “LoadImage”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\caxis.h(3): warning C4278: “TextOut”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\caxis.h(3): warning C4278: “LoadImage”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\caxis.h(3): warning C4278: “LoadImage”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
+         正在生成代码...
+         正在编译...
+         SIMUAGVTEST.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(202): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(208): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(209): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(255): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(256): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(507): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(630): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(738): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(799): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(804): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(928): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(940): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
+         Si2dCfg.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\si2dcfg.cpp(404): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\si2dcfg.cpp(449): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\si2dcfg.cpp(596): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\si2dcfg.cpp(844): warning C4101: “dlen”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\si2dcfg.cpp(1021): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\si2dcfg.cpp(1173): warning C4244: “=”: 从“short”转换到“unsigned char”，可能丢失数据
+         SetRdDlg.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setrddlg.cpp(222): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+         SetProdDlg.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(15): warning C4244: “初始化”: 从“const float”转换到“const int”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(16): warning C4244: “初始化”: 从“const float”转换到“const int”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(19): warning C4244: “初始化”: 从“const float”转换到“const int”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(20): warning C4244: “初始化”: 从“const float”转换到“const int”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(151): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(154): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(157): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(263): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(268): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(274): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(318): warning C4244: “=”: 从“u32”转换到“unsigned char”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(323): warning C4244: “=”: 从“u32”转换到“unsigned char”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(328): warning C4244: “=”: 从“u32”转换到“unsigned char”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(426): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(475): warning C4244: “=”: 从“u32”转换到“unsigned char”，可能丢失数据
+         SetFormView.cpp
+         SetAppDlg.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setappdlg.cpp(160): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setappdlg.cpp(162): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setappdlg.cpp(167): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+         ServerIPDlg.cpp
+         Scanf3dDlg.cpp
+         Scanf2dDlg.cpp
+         Scan3dCfg.cpp
+         Scan2dCfg.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(370): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(371): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(310): warning C4101: “pView1”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(602): warning C4101: “pView1”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(898): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(911): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(913): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(927): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(1146): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(1191): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(1464): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(1577): warning C4018: “<”: 有符号/无符号不匹配
+         ProgramDownDlg.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(120): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(120): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(135): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(150): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(150): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(201): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(201): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(230): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(230): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(246): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(246): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(276): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(276): warning C4309: “初始化”: 截断常量值
+         OperateExcelFile.cpp
+         NetworkUtils.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\network\networkutils.cpp(201): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\network\networkutils.cpp(239): warning C4018: “<=”: 有符号/无符号不匹配
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\network\networkutils.cpp(983): warning C4309: “=”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\network\networkutils.cpp(984): warning C4309: “=”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\network\networkutils.cpp(1039): warning C4101: “len”: 未引用的局部变量
+         NetParam.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(171): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(171): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(173): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(173): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(177): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(177): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(179): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(179): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(183): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(183): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(185): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(185): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(195): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(232): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(232): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(232): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(232): warning C4309: “初始化”: 截断常量值
+         MyWriteLog.cpp
+         MySplitter.cpp
+         MainFrm.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(425): warning C4101: “thread1”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(2058): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(2476): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+         LaserView.cpp
+         LaserDoc.cpp
+         正在生成代码...
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\network\networkutils.cpp(704): warning C4715: “ConnectServer7070”: 不是所有的控件路径都返回值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setappdlg.cpp(313): warning C4715: “CSetAppDlg::OnHeatBack”: 不是所有的控件路径都返回值
+         正在编译...
+         Laser.cpp
+         IssueDlg.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(194): warning C4101: “pView1”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(558): warning C4101: “sztmp”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(573): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(573): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1387): warning C4101: “szDesResult”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1548): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1856): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1856): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1946): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1946): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1982): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1982): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(2055): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(2055): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(2107): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(2107): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(2906): warning C4101: “szDesResult”: 未引用的局部变量
+         Interp.cpp
+         InsideApI.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\insideapi.cpp(130): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\insideapi.cpp(541): warning C4101: “str”: 未引用的局部变量
+         InputDlg.cpp
+         GraphForm3d.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(214): warning C4091: “”: 没有声明变量时忽略“double”的左侧
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(292): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(301): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(355): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(241): warning C4101: “tlen”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(453): warning C4091: “”: 没有声明变量时忽略“double”的左侧
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(553): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(485): warning C4101: “tlen”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(456): warning C4101: “l_u8flag”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(467): warning C4101: “l_psNetData”: 未引用的局部变量
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\include\utility(163): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\utility(255): 参见对正在编译的函数 模板 实例化“std::_Pair_base<_Ty1,_Ty2>::_Pair_base<_Ty,_Ty>(_Other1 &&,_Other2 &&)”的引用
+                 with
+                 [
+                     _Ty1=const int,
+                     _Ty2=double,
+                     _Ty=double,
+                     _Other1=double,
+                     _Other2=double
+                 ]
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\xmemory(208): 参见对正在编译的函数 模板 实例化“std::pair<_Ty1,_Ty2>::pair<double,double>(std::pair<double,_Ty2> &&)”的引用
+                 with
+                 [
+                     _Ty1=const int,
+                     _Ty2=double
+                 ]
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\xmemory(280): 参见对正在编译的函数 模板 实例化“void std::allocator<_Ty>::construct<std::pair<_Ty1,_Ty2>>(std::pair<const _Kty,_Ty2> ,_Other &&)”的引用
+                 with
+                 [
+                     _Ty=std::pair<const int,double>,
+                     _Ty1=double,
+                     _Ty2=double,
+                     _Kty=int,
+                     _Other=std::pair<double,double>
+                 ]
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\xtree(592): 参见对正在编译的函数 模板 实例化“void std::_Cons_val<std::allocator<_Ty>,_Ty,std::pair<_Ty1,_Ty2>>(_Alloc &,std::pair<const _Kty,_Ty2> *,std::pair<_Ty1,_Ty2> &&)”的引用
+                 with
+                 [
+                     _Ty=std::pair<const int,double>,
+                     _Ty1=double,
+                     _Ty2=double,
+                     _Alloc=std::allocator<std::pair<const int,double>>,
+                     _Kty=int
+                 ]
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\xtree(755): 参见对正在编译的函数 模板 实例化“std::_Tree_nod<_Traits>::_Node *std::_Tree_val<_Traits>::_Buynode<_Ty>(_Valty &&)”的引用
+                 with
+                 [
+                     _Traits=std::_Tmap_traits<int,double,std::less<int>,std::allocator<std::pair<const int,double>>,true>,
+                     _Ty=std::pair<double,double>,
+                     _Valty=std::pair<double,double>
+                 ]
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\map(364): 参见对正在编译的函数 模板 实例化“std::pair<_Ty1,_Ty2> std::_Tree<_Traits>::insert<_Ty>(_Valty &&)”的引用
+                 with
+                 [
+                     _Ty1=std::_Tree_iterator<std::_Tree_val<std::_Tmap_traits<int,double,std::less<int>,std::allocator<std::pair<const int,double>>,true>>>,
+                     _Ty2=bool,
+                     _Traits=std::_Tmap_traits<int,double,std::less<int>,std::allocator<std::pair<const int,double>>,true>,
+                     _Ty=std::pair<double,double>,
+                     _Valty=std::pair<double,double>
+                 ]
+                 c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(321): 参见对正在编译的函数 模板 实例化“std::_Tree_iterator<_Mytree> std::multimap<_Kty,_Ty>::insert<std::pair<_Ty1,_Ty2>>(_Valty &&)”的引用
+                 with
+                 [
+                     _Mytree=std::_Tree_val<std::_Tmap_traits<int,double,std::less<int>,std::allocator<std::pair<const int,double>>,true>>,
+                     _Kty=int,
+                     _Ty=double,
+                     _Ty1=double,
+                     _Ty2=double,
+                     _Valty=std::pair<double,double>
+                 ]
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\include\utility(163): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\utility(255): 参见对正在编译的函数 模板 实例化“std::_Pair_base<_Ty1,_Ty2>::_Pair_base<_Ty,int>(_Other1 &&,_Other2 &&)”的引用
+                 with
+                 [
+                     _Ty1=const int,
+                     _Ty2=double,
+                     _Ty=double,
+                     _Other1=double,
+                     _Other2=int
+                 ]
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\xmemory(208): 参见对正在编译的函数 模板 实例化“std::pair<_Ty1,_Ty2>::pair<double,int>(std::pair<double,int> &&)”的引用
+                 with
+                 [
+                     _Ty1=const int,
+                     _Ty2=double
+                 ]
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\xmemory(280): 参见对正在编译的函数 模板 实例化“void std::allocator<_Ty>::construct<std::pair<_Ty1,_Ty2>>(std::pair<const _Kty,double> *,_Other &&)”的引用
+                 with
+                 [
+                     _Ty=std::pair<const int,double>,
+                     _Ty1=double,
+                     _Ty2=int,
+                     _Kty=int,
+                     _Other=std::pair<double,int>
+                 ]
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\xtree(592): 参见对正在编译的函数 模板 实例化“void std::_Cons_val<std::allocator<_Ty>,_Ty,std::pair<_Ty1,_Ty2>>(_Alloc &,std::pair<const _Kty,double> *,std::pair<_Ty1,_Ty2> &&)”的引用
+                 with
+                 [
+                     _Ty=std::pair<const int,double>,
+                     _Ty1=double,
+                     _Ty2=int,
+                     _Alloc=std::allocator<std::pair<const int,double>>,
+                     _Kty=int
+                 ]
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\xtree(755): 参见对正在编译的函数 模板 实例化“std::_Tree_nod<_Traits>::_Node *std::_Tree_val<_Traits>::_Buynode<_Ty>(_Valty &&)”的引用
+                 with
+                 [
+                     _Traits=std::_Tmap_traits<int,double,std::less<int>,std::allocator<std::pair<const int,double>>,true>,
+                     _Ty=std::pair<double,int>,
+                     _Valty=std::pair<double,int>
+                 ]
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\map(364): 参见对正在编译的函数 模板 实例化“std::pair<_Ty1,_Ty2> std::_Tree<_Traits>::insert<_Ty>(_Valty &&)”的引用
+                 with
+                 [
+                     _Ty1=std::_Tree_iterator<std::_Tree_val<std::_Tmap_traits<int,double,std::less<int>,std::allocator<std::pair<const int,double>>,true>>>,
+                     _Ty2=bool,
+                     _Traits=std::_Tmap_traits<int,double,std::less<int>,std::allocator<std::pair<const int,double>>,true>,
+                     _Ty=std::pair<double,int>,
+                     _Valty=std::pair<double,int>
+                 ]
+                 c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(325): 参见对正在编译的函数 模板 实例化“std::_Tree_iterator<_Mytree> std::multimap<_Kty,_Ty>::insert<std::pair<_Ty1,_Ty2>>(_Valty &&)”的引用
+                 with
+                 [
+                     _Mytree=std::_Tree_val<std::_Tmap_traits<int,double,std::less<int>,std::allocator<std::pair<const int,double>>,true>>,
+                     _Kty=int,
+                     _Ty=double,
+                     _Ty1=double,
+                     _Ty2=int,
+                     _Valty=std::pair<double,int>
+                 ]
+         GraphForm2dState.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(136): warning C4309: “参数”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(195): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(200): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(321): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(333): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(345): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(348): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(357): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(360): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(369): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+         GraphForm2d.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(362): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(436): warning C4101: “nSeriesNumZhi”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(700): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(508): warning C4101: “lTime”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(574): warning C4101: “l_n32DataSi”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(862): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(867): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(872): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(877): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(882): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(885): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(886): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(887): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(888): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(891): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(892): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(893): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(895): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(896): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(897): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(898): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(902): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(905): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(821): warning C4101: “l_n32j”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(821): warning C4101: “l_n32i”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(823): warning C4101: “l_n32DataSi”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(960): warning C4101: “l_n32DataNum”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(959): warning C4101: “l_n32j”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(959): warning C4101: “l_n32i”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(961): warning C4101: “l_n32DataSi”: 未引用的局部变量
+         FPGADownloadDlg.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fpgadownloaddlg.cpp(184): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fpgadownloaddlg.cpp(184): warning C4309: “初始化”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fpgadownloaddlg.cpp(186): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fpgadownloaddlg.cpp(269): warning C4309: “=”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fpgadownloaddlg.cpp(270): warning C4309: “=”: 截断常量值
+         CDMLogInfo.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\file\cdmloginfo.cpp(44): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+         FileUtils.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fileutils.cpp(105): warning C4244: “return”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fileutils.cpp(264): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\io.h(299) : 参见“access”的声明
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fileutils.cpp(279): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\io.h(299) : 参见“access”的声明
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fileutils.cpp(433): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fileutils.cpp(435): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+         DustDlg.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(162): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(164): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(165): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(166): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(167): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(168): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(169): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(170): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(171): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(172): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(252): warning C4309: “=”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(283): warning C4309: “=”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(314): warning C4309: “=”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(345): warning C4309: “=”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(375): warning C4309: “=”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(405): warning C4309: “=”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(435): warning C4309: “=”: 截断常量值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(465): warning C4309: “=”: 截断常量值
+         DInterpDlg.cpp
+         DiagnosisDlg.cpp
+         DatagramSocket.cpp
+         CRC16.cpp
+         ControlForm.cpp
+         BroadCastDlg.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\broadcastdlg.cpp(495): warning C4101: “thread”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\broadcastdlg.cpp(619): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+         BottomRView.cpp
+         BottomLView.cpp
+         正在生成代码...
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(175): warning C4715: “CDustDlg::OnDustR”: 不是所有的控件路径都返回值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(1000): warning C4715: “GraphForm2d::OnTemperRecordShow”: 不是所有的控件路径都返回值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(448): warning C4715: “CGraphForm2dState::OnVersion”: 不是所有的控件路径都返回值
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(171): warning C4715: “ThreadNetKeyState”: 不是所有的控件路径都返回值
+         正在编译...
+         ArmUartDlg.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\armuartdlg.cpp(143): warning C4018: “<”: 有符号/无符号不匹配
+         AGVTestDlg.cpp
+         AGVTestCfg.cpp
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1105): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1111): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1112): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1120): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1121): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1266): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1278): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1333): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1440): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1501): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1506): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1680): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1850): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1861): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1863): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1872): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1877): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1903): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1908): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(2039): warning C4101: “dlen”: 未引用的局部变量
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(2149): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(2242): warning C4244: “=”: 从“short”转换到“unsigned char”，可能丢失数据
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(2442): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(2500): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /l"0x0804" /IDebug\ /nologo /fo"Debug\Laser.res" Laser.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Laser.exe.embed.manifest.res" Debug\Laser_manifest.rc 
+       Link:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\0\Desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\Debug\Laser.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Laser.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\0\Desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\Debug\Laser.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\0\Desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\Debug\Laser.lib" /MACHINE:X86 Debug\Laser.res
+         Debug\Laser.exe.embed.manifest.res
+         Debug\AGVTestCfg.obj
+         Debug\AGVTestDlg.obj
+         Debug\ArmUartDlg.obj
+         Debug\BottomLView.obj
+         Debug\BottomRView.obj
+         Debug\BroadCastDlg.obj
+         Debug\ControlForm.obj
+         Debug\CRC16.obj
+         Debug\DatagramSocket.obj
+         Debug\DiagnosisDlg.obj
+         Debug\DInterpDlg.obj
+         Debug\DustDlg.obj
+         Debug\FileUtils.obj
+         Debug\CDMLogInfo.obj
+         Debug\FPGADownloadDlg.obj
+         Debug\GraphForm2d.obj
+         Debug\GraphForm2dState.obj
+         Debug\GraphForm3d.obj
+         Debug\InputDlg.obj
+         Debug\InsideApI.obj
+         Debug\Interp.obj
+         Debug\IssueDlg.obj
+         Debug\Laser.obj
+         Debug\LaserDoc.obj
+         Debug\LaserView.obj
+         Debug\MainFrm.obj
+         Debug\MySplitter.obj
+         Debug\MyWriteLog.obj
+         Debug\NetParam.obj
+         Debug\NetworkUtils.obj
+         Debug\OperateExcelFile.obj
+         Debug\ProgramDownDlg.obj
+         Debug\Scan2dCfg.obj
+         Debug\Scan3dCfg.obj
+         Debug\Scanf2dDlg.obj
+         Debug\Scanf3dDlg.obj
+         Debug\ServerIPDlg.obj
+         Debug\SetAppDlg.obj
+         Debug\SetFormView.obj
+         Debug\SetProdDlg.obj
+         Debug\SetRdDlg.obj
+         Debug\Si2dCfg.obj
+         Debug\SIMUAGVTEST.obj
+         Debug\SIMUAGVTESTDLG.obj
+         Debug\Single2dDlg.obj
+         Debug\stdafx.obj
+         Debug\SystemLoad.obj
+         Debug\tchart1.obj
+         Debug\TemperCfg.obj
+         Debug\TemperRecordDlg.obj
+         Debug\TopLView.obj
+         Debug\TopRView.obj
+         Debug\UartCfg.obj
+         Debug\UartDataDlg.obj
+         Debug\SerialUtils.obj
+         Debug\adxfunction.obj
+         Debug\amountfilter.obj
+         Debug\annotationcallout.obj
+         Debug\annotationtool.obj
+         Debug\antialiastool.obj
+         Debug\areaseries.obj
+         Debug\arrowseries.obj
+         Debug\aspect.obj
+         Debug\averagefunction.obj
+         Debug\axes.obj
+         Debug\axis.obj
+         Debug\axisarrowtool.obj
+         Debug\axisgridpen.obj
+         Debug\axislabels.obj
+         Debug\axislabelsitem.obj
+         Debug\axisscrolltool.obj
+         Debug\axistitle.obj
+         Debug\backimage.obj
+         Debug\bannertool.obj
+         Debug\bar3dseries.obj
+         Debug\barjoinseries.obj
+         Debug\barseries.obj
+         Debug\bevelfilter.obj
+         Debug\bezierseries.obj
+         Debug\blurfilter.obj
+         Debug\bmpexport.obj
+         Debug\bollingerfunction.obj
+         Debug\boxplotseries.obj
+         Debug\brightnessfilter.obj
+         Debug\brush.obj
+         Debug\bubble3dseries.obj
+         Debug\bubbleseries.obj
+         Debug\calendarcell.obj
+         Debug\calendarcellupper.obj
+         Debug\calendarseries.obj
+         Debug\candleseries.obj
+         Debug\canvas.obj
+         Debug\ccifunction.obj
+         Debug\chartaxispen.obj
+         Debug\chartfont.obj
+         Debug\charthiddenpen.obj
+         Debug\chartimagetool.obj
+         Debug\circlelabels.obj
+         Debug\circulargauge.obj
+         Debug\clipseriestool.obj
+         Debug\clockseries.obj
+         Debug\clvfunction.obj
+         Debug\colorbandtool.obj
+         Debug\colorfilter.obj
+         Debug\colorgridseries.obj
+         Debug\colorlinetool.obj
+         Debug\compressfunction.obj
+         Debug\contourlevel.obj
+         Debug\contourlevels.obj
+         Debug\contourmarks.obj
+         Debug\contourseries.obj
+         Debug\contrastfilter.obj
+         Debug\cropfilter.obj
+         Debug\cursortool.obj
+         Debug\curvefittingfunction.obj
+         Debug\custom3dpaletteseries.obj
+         Debug\customfunction.obj
+         Debug\customserieslist.obj
+         Debug\darvasseries.obj
+         Debug\datatabletool.obj
+         Debug\deltapointseries.obj
+         Debug\donutseries.obj
+         Debug\downsamplingfunction.obj
+         Debug\dragmarkstool.obj
+         Debug\dragpointtool.obj
+         Debug\drawline.obj
+         Debug\drawlinelist.obj
+         Debug\drawlinetool.obj
+         Debug\embossfilter.obj
+         Debug\environment.obj
+         Debug\epsexport.obj
+         Debug\errorbarseries.obj
+         Debug\errorseries.obj
+         Debug\expavgfunction.obj
+         Debug\explodedslices.obj
+         Debug\expmovavgfunction.obj
+         Debug\export.obj
+         Debug\extralegendtool.obj
+         Debug\fadertool.obj
+         Debug\fastlineseries.obj
+         Debug\fibonacciitem.obj
+         Debug\fibonaccilevels.obj
+         Debug\fibonaccitool.obj
+         Debug\filteritems.obj
+         Debug\filterregion.obj
+         Debug\floatxyz.obj
+         Debug\framebrush.obj
+         Debug\framedborder.obj
+         Debug\frametool.obj
+         Debug\fullscreentool.obj
+         Debug\funnelseries.obj
+         Debug\gammacorrectionfilter.obj
+         Debug\ganttseries.obj
+         Debug\gantttool.obj
+         Debug\gaugepointerrange.obj
+         Debug\gaugeseries.obj
+         Debug\gaugeseriespointer.obj
+         Debug\gifexport.obj
+         Debug\gllightsource.obj
+         Debug\glposition.obj
+         Debug\gradient.obj
+         Debug\grayscalefilter.obj
+         Debug\gridbandbrush.obj
+         Debug\gridbandtool.obj
+         Debug\gridtransposetool.obj
+         Debug\highlowlineseries.obj
+         Debug\highlowseries.obj
+         Debug\histogramfunction.obj
+         Debug\histogramseries.obj
+         Debug\horizareaseries.obj
+         Debug\horizbarseries.obj
+         Debug\horizboxplotseries.obj
+         Debug\horizhistogramseries.obj
+         Debug\horizlineseries.obj
+         Debug\htmlexport.obj
+         Debug\huelumsatfilter.obj
+         Debug\imagebarseries.obj
+         Debug\imagepointseries.obj
+         Debug\import.obj
+         Debug\isosurfaceseries.obj
+         Debug\jpegexport.obj
+         Debug\kagiseries.obj
+         Debug\legend.obj
+         Debug\legenditem.obj
+         Debug\legenditems.obj
+         Debug\legendpalettetool.obj
+         Debug\legendscrollbartool.obj
+         Debug\legendsymbol.obj
+         Debug\legendtitle.obj
+         Debug\levelsegment.obj
+         Debug\lighttool.obj
+         Debug\lineargauge.obj
+         Debug\lineseries.obj
+         Debug\linktool.obj
+         Debug\macdfunction.obj
+         Debug\magnifytool.obj
+         Debug\mappolygon.obj
+         Debug\mappolygonlist.obj
+         Debug\mapseries.obj
+         Debug\margins.obj
+         Debug\marks.obj
+         Debug\markscallout.obj
+         Debug\marksitem.obj
+         Debug\markssymbol.obj
+         Debug\markstiptool.obj
+         Debug\medianfunction.obj
+         Debug\metafileexport.obj
+         Debug\mirrorfilter.obj
+         Debug\modefunction.obj
+         Debug\mosaicfilter.obj
+         Debug\movingavgfunction.obj
+         Debug\nativeexport.obj
+         Debug\nearesttool.obj
+         Debug\numericgauge.obj
+         Debug\numericmarker.obj
+         Debug\obvfunction.obj
+         Debug\orgitem.obj
+         Debug\orgitemcollection.obj
+         Debug\orgseries.obj
+         Debug\orgshape.obj
+         Debug\page.obj
+         Debug\pagenumtool.obj
+         Debug\panel.obj
+         Debug\pcxexport.obj
+         Debug\pdfexport.obj
+         Debug\pen.obj
+         Debug\performancefunction.obj
+         Debug\piemarks.obj
+         Debug\pieotherslice.obj
+         Debug\pieseries.obj
+         Debug\pietool.obj
+         Debug\pngexport.obj
+         Debug\point3dseries.obj
+         Debug\pointarray.obj
+         Debug\pointer.obj
+         Debug\pointfigureseries.obj
+         Debug\pointseries.obj
+         Debug\polarbarseries.obj
+         Debug\polargridseries.obj
+         Debug\polarseries.obj
+         Debug\printer.obj
+         Debug\printersettings.obj
+         Debug\pvofunction.obj
+         Debug\pyramidseries.obj
+         Debug\radarseries.obj
+         Debug\rectangletool.obj
+         Debug\renkoseries.obj
+         Debug\resizefilter.obj
+         Debug\rmsfunction.obj
+         Debug\rotatefilter.obj
+         Debug\rotatetool.obj
+         Debug\rsifunction.obj
+         Debug\sarfunction.obj
+         Debug\scroll.obj
+         Debug\scrollbarthumb.obj
+         Debug\selectortool.obj
+         Debug\series.obj
+         Debug\seriesanimationtool.obj
+         Debug\seriesbandtool.obj
+         Debug\seriesgroup.obj
+         Debug\seriesgroups.obj
+         Debug\serieslist.obj
+         Debug\seriesmarkposition.obj
+         Debug\seriesmarkspositions.obj
+         Debug\seriesregiontool.obj
+         Debug\seriesstatstool.obj
+         Debug\shapeseries.obj
+         Debug\sharpenfilter.obj
+         Debug\smithseries.obj
+         Debug\smoothingfunction.obj
+         Debug\smoothpoints.obj
+         Debug\softenfilter.obj
+         Debug\spacing.obj
+         Debug\stddeviationfunction.obj
+         Debug\strings.obj
+         Debug\subgradient.obj
+         Debug\subsetteefunction.obj
+         Debug\surfacenearesttool.obj
+         Debug\surfaceseries.obj
+         Debug\surfacesides.obj
+         Debug\svgexport.obj
+         Debug\tablelegend.obj
+         Debug\tagcloudseries.obj
+         Debug\tchart.obj
+         Debug\teecustomshape.obj
+         Debug\teefilter.obj
+         Debug\teefont.obj
+         Debug\teefunction.obj
+         Debug\teeopengl.obj
+         Debug\teepicture.obj
+         Debug\teepoint2d.obj
+         Debug\teepoint3d.obj
+         Debug\teerect.obj
+         Debug\teeshadow.obj
+         Debug\teeshape.obj
+         Debug\teeshapepanel.obj
+         Debug\text3dtool.obj
+         Debug\textexport.obj
+         Debug\tilefilter.obj
+         Debug\titles.obj
+         Debug\toollist.obj
+         Debug\tools.obj
+         Debug\towerseries.obj
+         Debug\transposeseriestool.obj
+         Debug\trendfunction.obj
+         Debug\trisurfaceseries.obj
+         Debug\valuelist.obj
+         Debug\valuelists.obj
+         Debug\vector3dseries.obj
+         Debug\videoplayertool.obj
+         Debug\videotool.obj
+         Debug\volumepipeseries.obj
+         Debug\volumeseries.obj
+         Debug\wall.obj
+         Debug\walls.obj
+         Debug\waterfallseries.obj
+         Debug\windroseseries.obj
+         Debug\worldseries.obj
+         Debug\xamlexport.obj
+         Debug\xlsexport.obj
+         Debug\xmlexport.obj
+         Debug\zoom.obj
+         Debug\zoomfilter.obj
+         Debug\WriteLog.obj
+         Mwic_32.lib
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Laser.exe.embed.manifest" /manifest Debug\Laser.exe.intermediate.manifest "d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Laser.exe.embed.manifest.res" Debug\Laser_manifest.rc 
+       LinkEmbedManifest:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\0\Desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\Debug\Laser.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Laser.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\0\Desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\Debug\Laser.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\0\Desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\Debug\Laser.lib" /MACHINE:X86 Debug\Laser.res
+         Debug\Laser.exe.embed.manifest.res
+         Debug\AGVTestCfg.obj
+         Debug\AGVTestDlg.obj
+         Debug\ArmUartDlg.obj
+         Debug\BottomLView.obj
+         Debug\BottomRView.obj
+         Debug\BroadCastDlg.obj
+         Debug\ControlForm.obj
+         Debug\CRC16.obj
+         Debug\DatagramSocket.obj
+         Debug\DiagnosisDlg.obj
+         Debug\DInterpDlg.obj
+         Debug\DustDlg.obj
+         Debug\FileUtils.obj
+         Debug\CDMLogInfo.obj
+         Debug\FPGADownloadDlg.obj
+         Debug\GraphForm2d.obj
+         Debug\GraphForm2dState.obj
+         Debug\GraphForm3d.obj
+         Debug\InputDlg.obj
+         Debug\InsideApI.obj
+         Debug\Interp.obj
+         Debug\IssueDlg.obj
+         Debug\Laser.obj
+         Debug\LaserDoc.obj
+         Debug\LaserView.obj
+         Debug\MainFrm.obj
+         Debug\MySplitter.obj
+         Debug\MyWriteLog.obj
+         Debug\NetParam.obj
+         Debug\NetworkUtils.obj
+         Debug\OperateExcelFile.obj
+         Debug\ProgramDownDlg.obj
+         Debug\Scan2dCfg.obj
+         Debug\Scan3dCfg.obj
+         Debug\Scanf2dDlg.obj
+         Debug\Scanf3dDlg.obj
+         Debug\ServerIPDlg.obj
+         Debug\SetAppDlg.obj
+         Debug\SetFormView.obj
+         Debug\SetProdDlg.obj
+         Debug\SetRdDlg.obj
+         Debug\Si2dCfg.obj
+         Debug\SIMUAGVTEST.obj
+         Debug\SIMUAGVTESTDLG.obj
+         Debug\Single2dDlg.obj
+         Debug\stdafx.obj
+         Debug\SystemLoad.obj
+         Debug\tchart1.obj
+         Debug\TemperCfg.obj
+         Debug\TemperRecordDlg.obj
+         Debug\TopLView.obj
+         Debug\TopRView.obj
+         Debug\UartCfg.obj
+         Debug\UartDataDlg.obj
+         Debug\SerialUtils.obj
+         Debug\adxfunction.obj
+         Debug\amountfilter.obj
+         Debug\annotationcallout.obj
+         Debug\annotationtool.obj
+         Debug\antialiastool.obj
+         Debug\areaseries.obj
+         Debug\arrowseries.obj
+         Debug\aspect.obj
+         Debug\averagefunction.obj
+         Debug\axes.obj
+         Debug\axis.obj
+         Debug\axisarrowtool.obj
+         Debug\axisgridpen.obj
+         Debug\axislabels.obj
+         Debug\axislabelsitem.obj
+         Debug\axisscrolltool.obj
+         Debug\axistitle.obj
+         Debug\backimage.obj
+         Debug\bannertool.obj
+         Debug\bar3dseries.obj
+         Debug\barjoinseries.obj
+         Debug\barseries.obj
+         Debug\bevelfilter.obj
+         Debug\bezierseries.obj
+         Debug\blurfilter.obj
+         Debug\bmpexport.obj
+         Debug\bollingerfunction.obj
+         Debug\boxplotseries.obj
+         Debug\brightnessfilter.obj
+         Debug\brush.obj
+         Debug\bubble3dseries.obj
+         Debug\bubbleseries.obj
+         Debug\calendarcell.obj
+         Debug\calendarcellupper.obj
+         Debug\calendarseries.obj
+         Debug\candleseries.obj
+         Debug\canvas.obj
+         Debug\ccifunction.obj
+         Debug\chartaxispen.obj
+         Debug\chartfont.obj
+         Debug\charthiddenpen.obj
+         Debug\chartimagetool.obj
+         Debug\circlelabels.obj
+         Debug\circulargauge.obj
+         Debug\clipseriestool.obj
+         Debug\clockseries.obj
+         Debug\clvfunction.obj
+         Debug\colorbandtool.obj
+         Debug\colorfilter.obj
+         Debug\colorgridseries.obj
+         Debug\colorlinetool.obj
+         Debug\compressfunction.obj
+         Debug\contourlevel.obj
+         Debug\contourlevels.obj
+         Debug\contourmarks.obj
+         Debug\contourseries.obj
+         Debug\contrastfilter.obj
+         Debug\cropfilter.obj
+         Debug\cursortool.obj
+         Debug\curvefittingfunction.obj
+         Debug\custom3dpaletteseries.obj
+         Debug\customfunction.obj
+         Debug\customserieslist.obj
+         Debug\darvasseries.obj
+         Debug\datatabletool.obj
+         Debug\deltapointseries.obj
+         Debug\donutseries.obj
+         Debug\downsamplingfunction.obj
+         Debug\dragmarkstool.obj
+         Debug\dragpointtool.obj
+         Debug\drawline.obj
+         Debug\drawlinelist.obj
+         Debug\drawlinetool.obj
+         Debug\embossfilter.obj
+         Debug\environment.obj
+         Debug\epsexport.obj
+         Debug\errorbarseries.obj
+         Debug\errorseries.obj
+         Debug\expavgfunction.obj
+         Debug\explodedslices.obj
+         Debug\expmovavgfunction.obj
+         Debug\export.obj
+         Debug\extralegendtool.obj
+         Debug\fadertool.obj
+         Debug\fastlineseries.obj
+         Debug\fibonacciitem.obj
+         Debug\fibonaccilevels.obj
+         Debug\fibonaccitool.obj
+         Debug\filteritems.obj
+         Debug\filterregion.obj
+         Debug\floatxyz.obj
+         Debug\framebrush.obj
+         Debug\framedborder.obj
+         Debug\frametool.obj
+         Debug\fullscreentool.obj
+         Debug\funnelseries.obj
+         Debug\gammacorrectionfilter.obj
+         Debug\ganttseries.obj
+         Debug\gantttool.obj
+         Debug\gaugepointerrange.obj
+         Debug\gaugeseries.obj
+         Debug\gaugeseriespointer.obj
+         Debug\gifexport.obj
+         Debug\gllightsource.obj
+         Debug\glposition.obj
+         Debug\gradient.obj
+         Debug\grayscalefilter.obj
+         Debug\gridbandbrush.obj
+         Debug\gridbandtool.obj
+         Debug\gridtransposetool.obj
+         Debug\highlowlineseries.obj
+         Debug\highlowseries.obj
+         Debug\histogramfunction.obj
+         Debug\histogramseries.obj
+         Debug\horizareaseries.obj
+         Debug\horizbarseries.obj
+         Debug\horizboxplotseries.obj
+         Debug\horizhistogramseries.obj
+         Debug\horizlineseries.obj
+         Debug\htmlexport.obj
+         Debug\huelumsatfilter.obj
+         Debug\imagebarseries.obj
+         Debug\imagepointseries.obj
+         Debug\import.obj
+         Debug\isosurfaceseries.obj
+         Debug\jpegexport.obj
+         Debug\kagiseries.obj
+         Debug\legend.obj
+         Debug\legenditem.obj
+         Debug\legenditems.obj
+         Debug\legendpalettetool.obj
+         Debug\legendscrollbartool.obj
+         Debug\legendsymbol.obj
+         Debug\legendtitle.obj
+         Debug\levelsegment.obj
+         Debug\lighttool.obj
+         Debug\lineargauge.obj
+         Debug\lineseries.obj
+         Debug\linktool.obj
+         Debug\macdfunction.obj
+         Debug\magnifytool.obj
+         Debug\mappolygon.obj
+         Debug\mappolygonlist.obj
+         Debug\mapseries.obj
+         Debug\margins.obj
+         Debug\marks.obj
+         Debug\markscallout.obj
+         Debug\marksitem.obj
+         Debug\markssymbol.obj
+         Debug\markstiptool.obj
+         Debug\medianfunction.obj
+         Debug\metafileexport.obj
+         Debug\mirrorfilter.obj
+         Debug\modefunction.obj
+         Debug\mosaicfilter.obj
+         Debug\movingavgfunction.obj
+         Debug\nativeexport.obj
+         Debug\nearesttool.obj
+         Debug\numericgauge.obj
+         Debug\numericmarker.obj
+         Debug\obvfunction.obj
+         Debug\orgitem.obj
+         Debug\orgitemcollection.obj
+         Debug\orgseries.obj
+         Debug\orgshape.obj
+         Debug\page.obj
+         Debug\pagenumtool.obj
+         Debug\panel.obj
+         Debug\pcxexport.obj
+         Debug\pdfexport.obj
+         Debug\pen.obj
+         Debug\performancefunction.obj
+         Debug\piemarks.obj
+         Debug\pieotherslice.obj
+         Debug\pieseries.obj
+         Debug\pietool.obj
+         Debug\pngexport.obj
+         Debug\point3dseries.obj
+         Debug\pointarray.obj
+         Debug\pointer.obj
+         Debug\pointfigureseries.obj
+         Debug\pointseries.obj
+         Debug\polarbarseries.obj
+         Debug\polargridseries.obj
+         Debug\polarseries.obj
+         Debug\printer.obj
+         Debug\printersettings.obj
+         Debug\pvofunction.obj
+         Debug\pyramidseries.obj
+         Debug\radarseries.obj
+         Debug\rectangletool.obj
+         Debug\renkoseries.obj
+         Debug\resizefilter.obj
+         Debug\rmsfunction.obj
+         Debug\rotatefilter.obj
+         Debug\rotatetool.obj
+         Debug\rsifunction.obj
+         Debug\sarfunction.obj
+         Debug\scroll.obj
+         Debug\scrollbarthumb.obj
+         Debug\selectortool.obj
+         Debug\series.obj
+         Debug\seriesanimationtool.obj
+         Debug\seriesbandtool.obj
+         Debug\seriesgroup.obj
+         Debug\seriesgroups.obj
+         Debug\serieslist.obj
+         Debug\seriesmarkposition.obj
+         Debug\seriesmarkspositions.obj
+         Debug\seriesregiontool.obj
+         Debug\seriesstatstool.obj
+         Debug\shapeseries.obj
+         Debug\sharpenfilter.obj
+         Debug\smithseries.obj
+         Debug\smoothingfunction.obj
+         Debug\smoothpoints.obj
+         Debug\softenfilter.obj
+         Debug\spacing.obj
+         Debug\stddeviationfunction.obj
+         Debug\strings.obj
+         Debug\subgradient.obj
+         Debug\subsetteefunction.obj
+         Debug\surfacenearesttool.obj
+         Debug\surfaceseries.obj
+         Debug\surfacesides.obj
+         Debug\svgexport.obj
+         Debug\tablelegend.obj
+         Debug\tagcloudseries.obj
+         Debug\tchart.obj
+         Debug\teecustomshape.obj
+         Debug\teefilter.obj
+         Debug\teefont.obj
+         Debug\teefunction.obj
+         Debug\teeopengl.obj
+         Debug\teepicture.obj
+         Debug\teepoint2d.obj
+         Debug\teepoint3d.obj
+         Debug\teerect.obj
+         Debug\teeshadow.obj
+         Debug\teeshape.obj
+         Debug\teeshapepanel.obj
+         Debug\text3dtool.obj
+         Debug\textexport.obj
+         Debug\tilefilter.obj
+         Debug\titles.obj
+         Debug\toollist.obj
+         Debug\tools.obj
+         Debug\towerseries.obj
+         Debug\transposeseriestool.obj
+         Debug\trendfunction.obj
+         Debug\trisurfaceseries.obj
+         Debug\valuelist.obj
+         Debug\valuelists.obj
+         Debug\vector3dseries.obj
+         Debug\videoplayertool.obj
+         Debug\videotool.obj
+         Debug\volumepipeseries.obj
+         Debug\volumeseries.obj
+         Debug\wall.obj
+         Debug\walls.obj
+         Debug\waterfallseries.obj
+         Debug\windroseseries.obj
+         Debug\worldseries.obj
+         Debug\xamlexport.obj
+         Debug\xlsexport.obj
+         Debug\xmlexport.obj
+         Debug\zoom.obj
+         Debug\zoomfilter.obj
+         Debug\WriteLog.obj
+         Mwic_32.lib
+         Laser.vcxproj -> C:\Users\0\Desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\Debug\Laser.exe
+     1>已完成生成项目“C:\Users\0\Desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\Laser\Laser.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:01:24.67

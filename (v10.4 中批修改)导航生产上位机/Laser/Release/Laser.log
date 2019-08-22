@@ -1,0 +1,1180 @@
+﻿生成启动时间为 2019/7/15 12:49:15。
+     1>项目“E:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟AGV模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始IP02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\Laser\Laser.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\Laser /Zi /nologo /W3 /WX- /Od /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\Laser.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\Laser /Zi /nologo /W3 /WX- /Od /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Laser.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AGVTestCfg.cpp AGVTestDlg.cpp ArmUartDlg.cpp BottomLView.cpp BottomRView.cpp BroadCastDlg.cpp ControlForm.cpp CRC16.cpp DatagramSocket.cpp DiagnosisDlg.cpp DInterpDlg.cpp DustDlg.cpp FileUtils.cpp File\CDMLogInfo.cpp FPGADownloadDlg.cpp GraphForm2d.cpp GraphForm2dState.cpp GraphForm3d.cpp InputDlg.cpp InsideApI.cpp Interp.cpp IssueDlg.cpp Laser.cpp LaserDoc.cpp LaserView.cpp MainFrm.cpp MySplitter.cpp MyWriteLog.cpp NetParam.cpp NetWork\NetworkUtils.cpp OperateExcelFile.cpp ProgramDownDlg.cpp Scan2dCfg.cpp Scan3dCfg.cpp Scanf2dDlg.cpp Scanf3dDlg.cpp ServerIPDlg.cpp SetAppDlg.cpp SetFormView.cpp SetProdDlg.cpp SetRdDlg.cpp Si2dCfg.cpp SIMUAGVTEST.cpp SIMUAGVTESTDLG.cpp Single2dDlg.cpp SystemLoad.cpp tchart1.cpp TemperCfg.cpp TemperRecordDlg.cpp TopLView.cpp TopRView.cpp UartCfg.cpp UartDataDlg.cpp Uart\SerialUtils.cpp Utils\TeeChart\adxfunction.cpp Utils\TeeChart\amountfilter.cpp Utils\TeeChart\annotationcallout.cpp Utils\TeeChart\annotationtool.cpp Utils\TeeChart\antialiastool.cpp Utils\TeeChart\areaseries.cpp Utils\TeeChart\arrowseries.cpp Utils\TeeChart\aspect.cpp Utils\TeeChart\averagefunction.cpp Utils\TeeChart\axes.cpp Utils\TeeChart\axis.cpp Utils\TeeChart\axisarrowtool.cpp Utils\TeeChart\axisgridpen.cpp Utils\TeeChart\axislabels.cpp Utils\TeeChart\axislabelsitem.cpp Utils\TeeChart\axisscrolltool.cpp Utils\TeeChart\axistitle.cpp Utils\TeeChart\backimage.cpp Utils\TeeChart\bannertool.cpp Utils\TeeChart\bar3dseries.cpp Utils\TeeChart\barjoinseries.cpp Utils\TeeChart\barseries.cpp Utils\TeeChart\bevelfilter.cpp Utils\TeeChart\bezierseries.cpp Utils\TeeChart\blurfilter.cpp Utils\TeeChart\bmpexport.cpp Utils\TeeChart\bollingerfunction.cpp Utils\TeeChart\boxplotseries.cpp Utils\TeeChart\brightnessfilter.cpp Utils\TeeChart\brush.cpp Utils\TeeChart\bubble3dseries.cpp Utils\TeeChart\bubbleseries.cpp Utils\TeeChart\calendarcell.cpp Utils\TeeChart\calendarcellupper.cpp Utils\TeeChart\calendarseries.cpp Utils\TeeChart\candleseries.cpp Utils\TeeChart\canvas.cpp Utils\TeeChart\ccifunction.cpp Utils\TeeChart\chartaxispen.cpp Utils\TeeChart\chartfont.cpp Utils\TeeChart\charthiddenpen.cpp Utils\TeeChart\chartimagetool.cpp Utils\TeeChart\circlelabels.cpp Utils\TeeChart\circulargauge.cpp Utils\TeeChart\clipseriestool.cpp Utils\TeeChart\clockseries.cpp Utils\TeeChart\clvfunction.cpp Utils\TeeChart\colorbandtool.cpp Utils\TeeChart\colorfilter.cpp Utils\TeeChart\colorgridseries.cpp Utils\TeeChart\colorlinetool.cpp Utils\TeeChart\compressfunction.cpp Utils\TeeChart\contourlevel.cpp Utils\TeeChart\contourlevels.cpp Utils\TeeChart\contourmarks.cpp Utils\TeeChart\contourseries.cpp Utils\TeeChart\contrastfilter.cpp Utils\TeeChart\cropfilter.cpp Utils\TeeChart\cursortool.cpp Utils\TeeChart\curvefittingfunction.cpp Utils\TeeChart\custom3dpaletteseries.cpp Utils\TeeChart\customfunction.cpp Utils\TeeChart\customserieslist.cpp Utils\TeeChart\darvasseries.cpp Utils\TeeChart\datatabletool.cpp Utils\TeeChart\deltapointseries.cpp Utils\TeeChart\donutseries.cpp Utils\TeeChart\downsamplingfunction.cpp Utils\TeeChart\dragmarkstool.cpp Utils\TeeChart\dragpointtool.cpp Utils\TeeChart\drawline.cpp Utils\TeeChart\drawlinelist.cpp Utils\TeeChart\drawlinetool.cpp Utils\TeeChart\embossfilter.cpp Utils\TeeChart\environment.cpp Utils\TeeChart\epsexport.cpp Utils\TeeChart\errorbarseries.cpp Utils\TeeChart\errorseries.cpp Utils\TeeChart\expavgfunction.cpp Utils\TeeChart\explodedslices.cpp Utils\TeeChart\expmovavgfunction.cpp Utils\TeeChart\export.cpp Utils\TeeChart\extralegendtool.cpp Utils\TeeChart\fadertool.cpp Utils\TeeChart\fastlineseries.cpp Utils\TeeChart\fibonacciitem.cpp Utils\TeeChart\fibonaccilevels.cpp Utils\TeeChart\fibonaccitool.cpp Utils\TeeChart\filteritems.cpp Utils\TeeChart\filterregion.cpp Utils\TeeChart\floatxyz.cpp Utils\TeeChart\framebrush.cpp Utils\TeeChart\framedborder.cpp Utils\TeeChart\frametool.cpp Utils\TeeChart\fullscreentool.cpp Utils\TeeChart\funnelseries.cpp Utils\TeeChart\gammacorrectionfilter.cpp Utils\TeeChart\ganttseries.cpp Utils\TeeChart\gantttool.cpp Utils\TeeChart\gaugepointerrange.cpp Utils\TeeChart\gaugeseries.cpp Utils\TeeChart\gaugeseriespointer.cpp Utils\TeeChart\gifexport.cpp Utils\TeeChart\gllightsource.cpp Utils\TeeChart\glposition.cpp Utils\TeeChart\gradient.cpp Utils\TeeChart\grayscalefilter.cpp Utils\TeeChart\gridbandbrush.cpp Utils\TeeChart\gridbandtool.cpp Utils\TeeChart\gridtransposetool.cpp Utils\TeeChart\highlowlineseries.cpp Utils\TeeChart\highlowseries.cpp Utils\TeeChart\histogramfunction.cpp Utils\TeeChart\histogramseries.cpp Utils\TeeChart\horizareaseries.cpp Utils\TeeChart\horizbarseries.cpp Utils\TeeChart\horizboxplotseries.cpp Utils\TeeChart\horizhistogramseries.cpp Utils\TeeChart\horizlineseries.cpp Utils\TeeChart\htmlexport.cpp Utils\TeeChart\huelumsatfilter.cpp Utils\TeeChart\imagebarseries.cpp Utils\TeeChart\imagepointseries.cpp Utils\TeeChart\import.cpp Utils\TeeChart\isosurfaceseries.cpp Utils\TeeChart\jpegexport.cpp Utils\TeeChart\kagiseries.cpp Utils\TeeChart\legend.cpp Utils\TeeChart\legenditem.cpp Utils\TeeChart\legenditems.cpp Utils\TeeChart\legendpalettetool.cpp Utils\TeeChart\legendscrollbartool.cpp Utils\TeeChart\legendsymbol.cpp Utils\TeeChart\legendtitle.cpp Utils\TeeChart\levelsegment.cpp Utils\TeeChart\lighttool.cpp Utils\TeeChart\lineargauge.cpp Utils\TeeChart\lineseries.cpp Utils\TeeChart\linktool.cpp Utils\TeeChart\macdfunction.cpp Utils\TeeChart\magnifytool.cpp Utils\TeeChart\mappolygon.cpp Utils\TeeChart\mappolygonlist.cpp Utils\TeeChart\mapseries.cpp Utils\TeeChart\margins.cpp Utils\TeeChart\marks.cpp Utils\TeeChart\markscallout.cpp Utils\TeeChart\marksitem.cpp Utils\TeeChart\markssymbol.cpp Utils\TeeChart\markstiptool.cpp Utils\TeeChart\medianfunction.cpp Utils\TeeChart\metafileexport.cpp Utils\TeeChart\mirrorfilter.cpp Utils\TeeChart\modefunction.cpp Utils\TeeChart\mosaicfilter.cpp Utils\TeeChart\movingavgfunction.cpp Utils\TeeChart\nativeexport.cpp Utils\TeeChart\nearesttool.cpp Utils\TeeChart\numericgauge.cpp Utils\TeeChart\numericmarker.cpp Utils\TeeChart\obvfunction.cpp Utils\TeeChart\orgitem.cpp Utils\TeeChart\orgitemcollection.cpp Utils\TeeChart\orgseries.cpp Utils\TeeChart\orgshape.cpp Utils\TeeChart\page.cpp Utils\TeeChart\pagenumtool.cpp Utils\TeeChart\panel.cpp Utils\TeeChart\pcxexport.cpp Utils\TeeChart\pdfexport.cpp Utils\TeeChart\pen.cpp Utils\TeeChart\performancefunction.cpp Utils\TeeChart\piemarks.cpp Utils\TeeChart\pieotherslice.cpp Utils\TeeChart\pieseries.cpp Utils\TeeChart\pietool.cpp Utils\TeeChart\pngexport.cpp Utils\TeeChart\point3dseries.cpp Utils\TeeChart\pointarray.cpp Utils\TeeChart\pointer.cpp Utils\TeeChart\pointfigureseries.cpp Utils\TeeChart\pointseries.cpp Utils\TeeChart\polarbarseries.cpp Utils\TeeChart\polargridseries.cpp Utils\TeeChart\polarseries.cpp Utils\TeeChart\printer.cpp Utils\TeeChart\printersettings.cpp Utils\TeeChart\pvofunction.cpp Utils\TeeChart\pyramidseries.cpp Utils\TeeChart\radarseries.cpp Utils\TeeChart\rectangletool.cpp Utils\TeeChart\renkoseries.cpp Utils\TeeChart\resizefilter.cpp Utils\TeeChart\rmsfunction.cpp Utils\TeeChart\rotatefilter.cpp Utils\TeeChart\rotatetool.cpp Utils\TeeChart\rsifunction.cpp Utils\TeeChart\sarfunction.cpp Utils\TeeChart\scroll.cpp Utils\TeeChart\scrollbarthumb.cpp Utils\TeeChart\selectortool.cpp Utils\TeeChart\series.cpp Utils\TeeChart\seriesanimationtool.cpp Utils\TeeChart\seriesbandtool.cpp Utils\TeeChart\seriesgroup.cpp Utils\TeeChart\seriesgroups.cpp Utils\TeeChart\serieslist.cpp Utils\TeeChart\seriesmarkposition.cpp Utils\TeeChart\seriesmarkspositions.cpp Utils\TeeChart\seriesregiontool.cpp Utils\TeeChart\seriesstatstool.cpp Utils\TeeChart\shapeseries.cpp Utils\TeeChart\sharpenfilter.cpp Utils\TeeChart\smithseries.cpp Utils\TeeChart\smoothingfunction.cpp Utils\TeeChart\smoothpoints.cpp Utils\TeeChart\softenfilter.cpp Utils\TeeChart\spacing.cpp Utils\TeeChart\stddeviationfunction.cpp Utils\TeeChart\strings.cpp Utils\TeeChart\subgradient.cpp Utils\TeeChart\subsetteefunction.cpp Utils\TeeChart\surfacenearesttool.cpp Utils\TeeChart\surfaceseries.cpp Utils\TeeChart\surfacesides.cpp Utils\TeeChart\svgexport.cpp Utils\TeeChart\tablelegend.cpp Utils\TeeChart\tagcloudseries.cpp Utils\TeeChart\tchart.cpp Utils\TeeChart\teecustomshape.cpp Utils\TeeChart\teefilter.cpp Utils\TeeChart\teefont.cpp Utils\TeeChart\teefunction.cpp Utils\TeeChart\teeopengl.cpp Utils\TeeChart\teepicture.cpp Utils\TeeChart\teepoint2d.cpp Utils\TeeChart\teepoint3d.cpp Utils\TeeChart\teerect.cpp Utils\TeeChart\teeshadow.cpp Utils\TeeChart\teeshape.cpp Utils\TeeChart\teeshapepanel.cpp Utils\TeeChart\text3dtool.cpp Utils\TeeChart\textexport.cpp Utils\TeeChart\tilefilter.cpp Utils\TeeChart\titles.cpp Utils\TeeChart\toollist.cpp Utils\TeeChart\tools.cpp Utils\TeeChart\towerseries.cpp Utils\TeeChart\transposeseriestool.cpp Utils\TeeChart\trendfunction.cpp Utils\TeeChart\trisurfaceseries.cpp Utils\TeeChart\valuelist.cpp Utils\TeeChart\valuelists.cpp Utils\TeeChart\vector3dseries.cpp Utils\TeeChart\videoplayertool.cpp Utils\TeeChart\videotool.cpp Utils\TeeChart\volumepipeseries.cpp Utils\TeeChart\volumeseries.cpp Utils\TeeChart\wall.cpp Utils\TeeChart\walls.cpp Utils\TeeChart\waterfallseries.cpp Utils\TeeChart\windroseseries.cpp Utils\TeeChart\worldseries.cpp Utils\TeeChart\xamlexport.cpp Utils\TeeChart\xlsexport.cpp Utils\TeeChart\xmlexport.cpp Utils\TeeChart\zoom.cpp Utils\TeeChart\zoomfilter.cpp WriteLog.cpp
+         AGVTestCfg.cpp
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始ip02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\laser\CAxis.h(3): warning C4278: “LoadImage”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始ip02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\laser\CAxis.h(3): warning C4278: “LoadImage”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始ip02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\laser\CAxis.h(3): warning C4278: “TextOut”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始ip02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\laser\CAxis.h(3): warning C4278: “LoadImage”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始ip02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\laser\CAxis.h(3): warning C4278: “LoadImage”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
+     1>AGVTestCfg.cpp(1106): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>AGVTestCfg.cpp(1112): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>AGVTestCfg.cpp(1113): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>AGVTestCfg.cpp(1121): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>AGVTestCfg.cpp(1122): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>AGVTestCfg.cpp(1267): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : 参见“strcat”的声明
+     1>AGVTestCfg.cpp(1279): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : 参见“itoa”的声明
+     1>AGVTestCfg.cpp(1334): warning C4305: “初始化”: 从“double”到“float”截断
+     1>AGVTestCfg.cpp(1441): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>AGVTestCfg.cpp(1502): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>AGVTestCfg.cpp(1507): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>AGVTestCfg.cpp(1681): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>AGVTestCfg.cpp(1851): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>AGVTestCfg.cpp(1862): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>AGVTestCfg.cpp(1864): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>AGVTestCfg.cpp(1873): warning C4018: “<”: 有符号/无符号不匹配
+     1>AGVTestCfg.cpp(1878): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+     1>AGVTestCfg.cpp(1904): warning C4018: “<”: 有符号/无符号不匹配
+     1>AGVTestCfg.cpp(1909): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>AGVTestCfg.cpp(2040): warning C4101: “dlen”: 未引用的局部变量
+     1>AGVTestCfg.cpp(2150): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : 参见“sscanf”的声明
+     1>AGVTestCfg.cpp(2243): warning C4244: “=”: 从“short”转换到“unsigned char”，可能丢失数据
+     1>AGVTestCfg.cpp(2445): warning C4018: “<”: 有符号/无符号不匹配
+     1>AGVTestCfg.cpp(2517): warning C4018: “<”: 有符号/无符号不匹配
+         AGVTestDlg.cpp
+         ArmUartDlg.cpp
+     1>ArmUartDlg.cpp(143): warning C4018: “<”: 有符号/无符号不匹配
+         BottomLView.cpp
+         BottomRView.cpp
+         BroadCastDlg.cpp
+     1>BroadCastDlg.cpp(495): warning C4101: “thread”: 未引用的局部变量
+     1>BroadCastDlg.cpp(619): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 参见“strcpy”的声明
+         ControlForm.cpp
+         CRC16.cpp
+         DatagramSocket.cpp
+         DiagnosisDlg.cpp
+         DInterpDlg.cpp
+         DustDlg.cpp
+     1>DustDlg.cpp(162): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DustDlg.cpp(164): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DustDlg.cpp(165): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DustDlg.cpp(166): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DustDlg.cpp(167): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DustDlg.cpp(168): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DustDlg.cpp(169): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DustDlg.cpp(170): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DustDlg.cpp(171): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DustDlg.cpp(172): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DustDlg.cpp(252): warning C4309: “=”: 截断常量值
+     1>DustDlg.cpp(283): warning C4309: “=”: 截断常量值
+     1>DustDlg.cpp(314): warning C4309: “=”: 截断常量值
+     1>DustDlg.cpp(345): warning C4309: “=”: 截断常量值
+     1>DustDlg.cpp(375): warning C4309: “=”: 截断常量值
+     1>DustDlg.cpp(405): warning C4309: “=”: 截断常量值
+     1>DustDlg.cpp(435): warning C4309: “=”: 截断常量值
+     1>DustDlg.cpp(465): warning C4309: “=”: 截断常量值
+         FileUtils.cpp
+     1>FileUtils.cpp(105): warning C4244: “return”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+     1>FileUtils.cpp(264): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(299) : 参见“access”的声明
+     1>FileUtils.cpp(279): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(299) : 参见“access”的声明
+     1>FileUtils.cpp(433): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 参见“strcpy”的声明
+     1>FileUtils.cpp(435): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 参见“strcpy”的声明
+         CDMLogInfo.cpp
+     1>File\CDMLogInfo.cpp(44): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+         FPGADownloadDlg.cpp
+     1>FPGADownloadDlg.cpp(184): warning C4309: “初始化”: 截断常量值
+     1>FPGADownloadDlg.cpp(184): warning C4309: “初始化”: 截断常量值
+     1>FPGADownloadDlg.cpp(186): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>FPGADownloadDlg.cpp(269): warning C4309: “=”: 截断常量值
+     1>FPGADownloadDlg.cpp(270): warning C4309: “=”: 截断常量值
+         GraphForm2d.cpp
+     1>GraphForm2d.cpp(362): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>GraphForm2d.cpp(436): warning C4101: “nSeriesNumZhi”: 未引用的局部变量
+     1>GraphForm2d.cpp(700): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>GraphForm2d.cpp(508): warning C4101: “lTime”: 未引用的局部变量
+     1>GraphForm2d.cpp(574): warning C4101: “l_n32DataSi”: 未引用的局部变量
+     1>GraphForm2d.cpp(862): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>GraphForm2d.cpp(867): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>GraphForm2d.cpp(872): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>GraphForm2d.cpp(877): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>GraphForm2d.cpp(882): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>GraphForm2d.cpp(885): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GraphForm2d.cpp(886): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GraphForm2d.cpp(887): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GraphForm2d.cpp(888): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GraphForm2d.cpp(891): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>GraphForm2d.cpp(892): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>GraphForm2d.cpp(893): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>GraphForm2d.cpp(895): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GraphForm2d.cpp(896): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>GraphForm2d.cpp(897): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>GraphForm2d.cpp(898): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>GraphForm2d.cpp(902): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GraphForm2d.cpp(905): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GraphForm2d.cpp(821): warning C4101: “l_n32j”: 未引用的局部变量
+     1>GraphForm2d.cpp(821): warning C4101: “l_n32i”: 未引用的局部变量
+     1>GraphForm2d.cpp(823): warning C4101: “l_n32DataSi”: 未引用的局部变量
+     1>GraphForm2d.cpp(960): warning C4101: “l_n32DataNum”: 未引用的局部变量
+     1>GraphForm2d.cpp(959): warning C4101: “l_n32j”: 未引用的局部变量
+     1>GraphForm2d.cpp(959): warning C4101: “l_n32i”: 未引用的局部变量
+     1>GraphForm2d.cpp(961): warning C4101: “l_n32DataSi”: 未引用的局部变量
+         GraphForm2dState.cpp
+     1>GraphForm2dState.cpp(136): warning C4309: “参数”: 截断常量值
+     1>GraphForm2dState.cpp(195): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>GraphForm2dState.cpp(200): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>GraphForm2dState.cpp(321): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GraphForm2dState.cpp(333): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GraphForm2dState.cpp(345): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GraphForm2dState.cpp(348): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GraphForm2dState.cpp(357): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>GraphForm2dState.cpp(360): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GraphForm2dState.cpp(369): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+         GraphForm3d.cpp
+     1>GraphForm3d.cpp(214): warning C4091: “”: 没有声明变量时忽略“double”的左侧
+     1>GraphForm3d.cpp(292): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>GraphForm3d.cpp(301): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>GraphForm3d.cpp(355): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>GraphForm3d.cpp(241): warning C4101: “tlen”: 未引用的局部变量
+     1>GraphForm3d.cpp(453): warning C4091: “”: 没有声明变量时忽略“double”的左侧
+     1>GraphForm3d.cpp(553): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>GraphForm3d.cpp(485): warning C4101: “tlen”: 未引用的局部变量
+     1>GraphForm3d.cpp(456): warning C4101: “l_u8flag”: 未引用的局部变量
+     1>GraphForm3d.cpp(467): warning C4101: “l_psNetData”: 未引用的局部变量
+     1>d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\utility(163): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\utility(255): 参见对正在编译的函数 模板 实例化“std::_Pair_base<_Ty1,_Ty2>::_Pair_base<_Ty,_Ty>(_Other1 &&,_Other2 &&)”的引用
+                 with
+                 [
+                     _Ty1=const int,
+                     _Ty2=double,
+                     _Ty=double,
+                     _Other1=double,
+                     _Other2=double
+                 ]
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xmemory(208): 参见对正在编译的函数 模板 实例化“std::pair<_Ty1,_Ty2>::pair<double,double>(std::pair<double,_Ty2> &&)”的引用
+                 with
+                 [
+                     _Ty1=const int,
+                     _Ty2=double
+                 ]
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xmemory(280): 参见对正在编译的函数 模板 实例化“void std::allocator<_Ty>::construct<std::pair<_Ty1,_Ty2>>(std::pair<const _Kty,_Ty2> ,_Other &&)”的引用
+                 with
+                 [
+                     _Ty=std::pair<const int,double>,
+                     _Ty1=double,
+                     _Ty2=double,
+                     _Kty=int,
+                     _Other=std::pair<double,double>
+                 ]
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xtree(592): 参见对正在编译的函数 模板 实例化“void std::_Cons_val<std::allocator<_Ty>,_Ty,std::pair<_Ty1,_Ty2>>(_Alloc &,std::pair<const _Kty,_Ty2> *,std::pair<_Ty1,_Ty2> &&)”的引用
+                 with
+                 [
+                     _Ty=std::pair<const int,double>,
+                     _Ty1=double,
+                     _Ty2=double,
+                     _Alloc=std::allocator<std::pair<const int,double>>,
+                     _Kty=int
+                 ]
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xtree(755): 参见对正在编译的函数 模板 实例化“std::_Tree_nod<_Traits>::_Node *std::_Tree_val<_Traits>::_Buynode<_Ty>(_Valty &&)”的引用
+                 with
+                 [
+                     _Traits=std::_Tmap_traits<int,double,std::less<int>,std::allocator<std::pair<const int,double>>,true>,
+                     _Ty=std::pair<double,double>,
+                     _Valty=std::pair<double,double>
+                 ]
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\map(364): 参见对正在编译的函数 模板 实例化“std::pair<_Ty1,_Ty2> std::_Tree<_Traits>::insert<_Ty>(_Valty &&)”的引用
+                 with
+                 [
+                     _Ty1=std::_Tree_iterator<std::_Tree_val<std::_Tmap_traits<int,double,std::less<int>,std::allocator<std::pair<const int,double>>,true>>>,
+                     _Ty2=bool,
+                     _Traits=std::_Tmap_traits<int,double,std::less<int>,std::allocator<std::pair<const int,double>>,true>,
+                     _Ty=std::pair<double,double>,
+                     _Valty=std::pair<double,double>
+                 ]
+                 GraphForm3d.cpp(321): 参见对正在编译的函数 模板 实例化“std::_Tree_iterator<_Mytree> std::multimap<_Kty,_Ty>::insert<std::pair<_Ty1,_Ty2>>(_Valty &&)”的引用
+                 with
+                 [
+                     _Mytree=std::_Tree_val<std::_Tmap_traits<int,double,std::less<int>,std::allocator<std::pair<const int,double>>,true>>,
+                     _Kty=int,
+                     _Ty=double,
+                     _Ty1=double,
+                     _Ty2=double,
+                     _Valty=std::pair<double,double>
+                 ]
+     1>d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\utility(163): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\utility(255): 参见对正在编译的函数 模板 实例化“std::_Pair_base<_Ty1,_Ty2>::_Pair_base<_Ty,int>(_Other1 &&,_Other2 &&)”的引用
+                 with
+                 [
+                     _Ty1=const int,
+                     _Ty2=double,
+                     _Ty=double,
+                     _Other1=double,
+                     _Other2=int
+                 ]
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xmemory(208): 参见对正在编译的函数 模板 实例化“std::pair<_Ty1,_Ty2>::pair<double,int>(std::pair<double,int> &&)”的引用
+                 with
+                 [
+                     _Ty1=const int,
+                     _Ty2=double
+                 ]
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xmemory(280): 参见对正在编译的函数 模板 实例化“void std::allocator<_Ty>::construct<std::pair<_Ty1,_Ty2>>(std::pair<const _Kty,double> *,_Other &&)”的引用
+                 with
+                 [
+                     _Ty=std::pair<const int,double>,
+                     _Ty1=double,
+                     _Ty2=int,
+                     _Kty=int,
+                     _Other=std::pair<double,int>
+                 ]
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xtree(592): 参见对正在编译的函数 模板 实例化“void std::_Cons_val<std::allocator<_Ty>,_Ty,std::pair<_Ty1,_Ty2>>(_Alloc &,std::pair<const _Kty,double> *,std::pair<_Ty1,_Ty2> &&)”的引用
+                 with
+                 [
+                     _Ty=std::pair<const int,double>,
+                     _Ty1=double,
+                     _Ty2=int,
+                     _Alloc=std::allocator<std::pair<const int,double>>,
+                     _Kty=int
+                 ]
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xtree(755): 参见对正在编译的函数 模板 实例化“std::_Tree_nod<_Traits>::_Node *std::_Tree_val<_Traits>::_Buynode<_Ty>(_Valty &&)”的引用
+                 with
+                 [
+                     _Traits=std::_Tmap_traits<int,double,std::less<int>,std::allocator<std::pair<const int,double>>,true>,
+                     _Ty=std::pair<double,int>,
+                     _Valty=std::pair<double,int>
+                 ]
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\map(364): 参见对正在编译的函数 模板 实例化“std::pair<_Ty1,_Ty2> std::_Tree<_Traits>::insert<_Ty>(_Valty &&)”的引用
+                 with
+                 [
+                     _Ty1=std::_Tree_iterator<std::_Tree_val<std::_Tmap_traits<int,double,std::less<int>,std::allocator<std::pair<const int,double>>,true>>>,
+                     _Ty2=bool,
+                     _Traits=std::_Tmap_traits<int,double,std::less<int>,std::allocator<std::pair<const int,double>>,true>,
+                     _Ty=std::pair<double,int>,
+                     _Valty=std::pair<double,int>
+                 ]
+                 GraphForm3d.cpp(325): 参见对正在编译的函数 模板 实例化“std::_Tree_iterator<_Mytree> std::multimap<_Kty,_Ty>::insert<std::pair<_Ty1,_Ty2>>(_Valty &&)”的引用
+                 with
+                 [
+                     _Mytree=std::_Tree_val<std::_Tmap_traits<int,double,std::less<int>,std::allocator<std::pair<const int,double>>,true>>,
+                     _Kty=int,
+                     _Ty=double,
+                     _Ty1=double,
+                     _Ty2=int,
+                     _Valty=std::pair<double,int>
+                 ]
+         InputDlg.cpp
+         InsideApI.cpp
+     1>InsideApI.cpp(130): warning C4018: “<”: 有符号/无符号不匹配
+     1>InsideApI.cpp(541): warning C4101: “str”: 未引用的局部变量
+         正在编译...
+         Interp.cpp
+         IssueDlg.cpp
+     1>IssueDlg.cpp(194): warning C4101: “pView1”: 未引用的局部变量
+     1>IssueDlg.cpp(558): warning C4101: “sztmp”: 未引用的局部变量
+     1>IssueDlg.cpp(573): warning C4309: “初始化”: 截断常量值
+     1>IssueDlg.cpp(573): warning C4309: “初始化”: 截断常量值
+     1>IssueDlg.cpp(1387): warning C4101: “szDesResult”: 未引用的局部变量
+     1>IssueDlg.cpp(1548): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>IssueDlg.cpp(1856): warning C4309: “初始化”: 截断常量值
+     1>IssueDlg.cpp(1856): warning C4309: “初始化”: 截断常量值
+     1>IssueDlg.cpp(1946): warning C4309: “初始化”: 截断常量值
+     1>IssueDlg.cpp(1946): warning C4309: “初始化”: 截断常量值
+     1>IssueDlg.cpp(1982): warning C4309: “初始化”: 截断常量值
+     1>IssueDlg.cpp(1982): warning C4309: “初始化”: 截断常量值
+     1>IssueDlg.cpp(2055): warning C4309: “初始化”: 截断常量值
+     1>IssueDlg.cpp(2055): warning C4309: “初始化”: 截断常量值
+     1>IssueDlg.cpp(2107): warning C4309: “初始化”: 截断常量值
+     1>IssueDlg.cpp(2107): warning C4309: “初始化”: 截断常量值
+     1>IssueDlg.cpp(2906): warning C4101: “szDesResult”: 未引用的局部变量
+         Laser.cpp
+         LaserDoc.cpp
+         LaserView.cpp
+         MainFrm.cpp
+     1>MainFrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>MainFrm.cpp(430): warning C4101: “thread1”: 未引用的局部变量
+     1>MainFrm.cpp(2063): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+     1>MainFrm.cpp(2481): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : 参见“strcat”的声明
+         MySplitter.cpp
+         MyWriteLog.cpp
+         NetParam.cpp
+     1>NetParam.cpp(172): warning C4309: “初始化”: 截断常量值
+     1>NetParam.cpp(172): warning C4309: “初始化”: 截断常量值
+     1>NetParam.cpp(174): warning C4309: “初始化”: 截断常量值
+     1>NetParam.cpp(174): warning C4309: “初始化”: 截断常量值
+     1>NetParam.cpp(178): warning C4309: “初始化”: 截断常量值
+     1>NetParam.cpp(178): warning C4309: “初始化”: 截断常量值
+     1>NetParam.cpp(180): warning C4309: “初始化”: 截断常量值
+     1>NetParam.cpp(180): warning C4309: “初始化”: 截断常量值
+     1>NetParam.cpp(184): warning C4309: “初始化”: 截断常量值
+     1>NetParam.cpp(184): warning C4309: “初始化”: 截断常量值
+     1>NetParam.cpp(186): warning C4309: “初始化”: 截断常量值
+     1>NetParam.cpp(186): warning C4309: “初始化”: 截断常量值
+     1>NetParam.cpp(196): warning C4309: “初始化”: 截断常量值
+     1>NetParam.cpp(233): warning C4309: “初始化”: 截断常量值
+     1>NetParam.cpp(233): warning C4309: “初始化”: 截断常量值
+     1>NetParam.cpp(233): warning C4309: “初始化”: 截断常量值
+     1>NetParam.cpp(233): warning C4309: “初始化”: 截断常量值
+         NetworkUtils.cpp
+     1>NetWork\NetworkUtils.cpp(201): warning C4018: “<”: 有符号/无符号不匹配
+     1>NetWork\NetworkUtils.cpp(239): warning C4018: “<=”: 有符号/无符号不匹配
+     1>NetWork\NetworkUtils.cpp(992): warning C4309: “=”: 截断常量值
+     1>NetWork\NetworkUtils.cpp(993): warning C4309: “=”: 截断常量值
+     1>NetWork\NetworkUtils.cpp(1048): warning C4101: “len”: 未引用的局部变量
+         OperateExcelFile.cpp
+         ProgramDownDlg.cpp
+     1>ProgramDownDlg.cpp(120): warning C4309: “初始化”: 截断常量值
+     1>ProgramDownDlg.cpp(120): warning C4309: “初始化”: 截断常量值
+     1>ProgramDownDlg.cpp(135): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>ProgramDownDlg.cpp(150): warning C4309: “初始化”: 截断常量值
+     1>ProgramDownDlg.cpp(150): warning C4309: “初始化”: 截断常量值
+     1>ProgramDownDlg.cpp(201): warning C4309: “初始化”: 截断常量值
+     1>ProgramDownDlg.cpp(201): warning C4309: “初始化”: 截断常量值
+     1>ProgramDownDlg.cpp(230): warning C4309: “初始化”: 截断常量值
+     1>ProgramDownDlg.cpp(230): warning C4309: “初始化”: 截断常量值
+     1>ProgramDownDlg.cpp(246): warning C4309: “初始化”: 截断常量值
+     1>ProgramDownDlg.cpp(246): warning C4309: “初始化”: 截断常量值
+     1>ProgramDownDlg.cpp(276): warning C4309: “初始化”: 截断常量值
+     1>ProgramDownDlg.cpp(276): warning C4309: “初始化”: 截断常量值
+         Scan2dCfg.cpp
+     1>Scan2dCfg.cpp(370): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>Scan2dCfg.cpp(371): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>Scan2dCfg.cpp(310): warning C4101: “pView1”: 未引用的局部变量
+     1>Scan2dCfg.cpp(602): warning C4101: “pView1”: 未引用的局部变量
+     1>Scan2dCfg.cpp(898): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>Scan2dCfg.cpp(911): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>Scan2dCfg.cpp(913): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>Scan2dCfg.cpp(927): warning C4018: “<”: 有符号/无符号不匹配
+     1>Scan2dCfg.cpp(1146): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>Scan2dCfg.cpp(1191): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>Scan2dCfg.cpp(1464): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>Scan2dCfg.cpp(1577): warning C4018: “<”: 有符号/无符号不匹配
+         Scan3dCfg.cpp
+         Scanf2dDlg.cpp
+         Scanf3dDlg.cpp
+         ServerIPDlg.cpp
+         SetAppDlg.cpp
+     1>SetAppDlg.cpp(160): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>SetAppDlg.cpp(162): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>SetAppDlg.cpp(167): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+         SetFormView.cpp
+         SetProdDlg.cpp
+     1>SetProdDlg.cpp(16): warning C4244: “初始化”: 从“const float”转换到“const int”，可能丢失数据
+     1>SetProdDlg.cpp(17): warning C4244: “初始化”: 从“const float”转换到“const int”，可能丢失数据
+     1>SetProdDlg.cpp(20): warning C4244: “初始化”: 从“const float”转换到“const int”，可能丢失数据
+     1>SetProdDlg.cpp(21): warning C4244: “初始化”: 从“const float”转换到“const int”，可能丢失数据
+     1>SetProdDlg.cpp(152): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>SetProdDlg.cpp(155): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>SetProdDlg.cpp(158): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>SetProdDlg.cpp(268): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>SetProdDlg.cpp(273): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>SetProdDlg.cpp(279): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>SetProdDlg.cpp(323): warning C4244: “=”: 从“u32”转换到“unsigned char”，可能丢失数据
+     1>SetProdDlg.cpp(328): warning C4244: “=”: 从“u32”转换到“unsigned char”，可能丢失数据
+     1>SetProdDlg.cpp(333): warning C4244: “=”: 从“u32”转换到“unsigned char”，可能丢失数据
+     1>SetProdDlg.cpp(431): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+     1>SetProdDlg.cpp(480): warning C4244: “=”: 从“u32”转换到“unsigned char”，可能丢失数据
+         正在编译...
+         SetRdDlg.cpp
+     1>SetRdDlg.cpp(222): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+         Si2dCfg.cpp
+     1>Si2dCfg.cpp(404): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>Si2dCfg.cpp(449): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>Si2dCfg.cpp(596): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : 参见“sscanf”的声明
+     1>Si2dCfg.cpp(844): warning C4101: “dlen”: 未引用的局部变量
+     1>Si2dCfg.cpp(1021): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : 参见“sscanf”的声明
+     1>Si2dCfg.cpp(1173): warning C4244: “=”: 从“short”转换到“unsigned char”，可能丢失数据
+         SIMUAGVTEST.cpp
+     1>SIMUAGVTEST.cpp(202): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>SIMUAGVTEST.cpp(208): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>SIMUAGVTEST.cpp(209): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>SIMUAGVTEST.cpp(255): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>SIMUAGVTEST.cpp(256): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>SIMUAGVTEST.cpp(507): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>SIMUAGVTEST.cpp(630): warning C4305: “初始化”: 从“double”到“float”截断
+     1>SIMUAGVTEST.cpp(738): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>SIMUAGVTEST.cpp(799): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>SIMUAGVTEST.cpp(804): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>SIMUAGVTEST.cpp(928): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : 参见“strcat”的声明
+     1>SIMUAGVTEST.cpp(940): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : 参见“itoa”的声明
+         SIMUAGVTESTDLG.cpp
+         Single2dDlg.cpp
+         SystemLoad.cpp
+         tchart1.cpp
+         TemperCfg.cpp
+         TemperRecordDlg.cpp
+         TopLView.cpp
+         TopRView.cpp
+         UartCfg.cpp
+         UartDataDlg.cpp
+         SerialUtils.cpp
+     1>Uart\SerialUtils.cpp(241): warning C4018: “<”: 有符号/无符号不匹配
+         adxfunction.cpp
+         amountfilter.cpp
+         annotationcallout.cpp
+         annotationtool.cpp
+         antialiastool.cpp
+         areaseries.cpp
+         正在编译...
+         arrowseries.cpp
+         aspect.cpp
+         averagefunction.cpp
+         axes.cpp
+         axis.cpp
+         axisarrowtool.cpp
+         axisgridpen.cpp
+         axislabels.cpp
+         axislabelsitem.cpp
+         axisscrolltool.cpp
+         axistitle.cpp
+         backimage.cpp
+         bannertool.cpp
+         bar3dseries.cpp
+         barjoinseries.cpp
+         barseries.cpp
+         bevelfilter.cpp
+         bezierseries.cpp
+         blurfilter.cpp
+         bmpexport.cpp
+         正在编译...
+         bollingerfunction.cpp
+         boxplotseries.cpp
+         brightnessfilter.cpp
+         brush.cpp
+         bubble3dseries.cpp
+         bubbleseries.cpp
+         calendarcell.cpp
+         calendarcellupper.cpp
+         calendarseries.cpp
+         candleseries.cpp
+         canvas.cpp
+         ccifunction.cpp
+         chartaxispen.cpp
+         chartfont.cpp
+         charthiddenpen.cpp
+         chartimagetool.cpp
+         circlelabels.cpp
+         circulargauge.cpp
+         clipseriestool.cpp
+         clockseries.cpp
+         正在编译...
+         clvfunction.cpp
+         colorbandtool.cpp
+         colorfilter.cpp
+         colorgridseries.cpp
+         colorlinetool.cpp
+         compressfunction.cpp
+         contourlevel.cpp
+         contourlevels.cpp
+         contourmarks.cpp
+         contourseries.cpp
+         contrastfilter.cpp
+         cropfilter.cpp
+         cursortool.cpp
+         curvefittingfunction.cpp
+         custom3dpaletteseries.cpp
+         customfunction.cpp
+         customserieslist.cpp
+         darvasseries.cpp
+         datatabletool.cpp
+         deltapointseries.cpp
+         正在编译...
+         donutseries.cpp
+         downsamplingfunction.cpp
+         dragmarkstool.cpp
+         dragpointtool.cpp
+         drawline.cpp
+         drawlinelist.cpp
+         drawlinetool.cpp
+         embossfilter.cpp
+         environment.cpp
+         epsexport.cpp
+         errorbarseries.cpp
+         errorseries.cpp
+         expavgfunction.cpp
+         explodedslices.cpp
+         expmovavgfunction.cpp
+         export.cpp
+         extralegendtool.cpp
+         fadertool.cpp
+         fastlineseries.cpp
+         fibonacciitem.cpp
+         正在编译...
+         fibonaccilevels.cpp
+         fibonaccitool.cpp
+         filteritems.cpp
+         filterregion.cpp
+         floatxyz.cpp
+         framebrush.cpp
+         framedborder.cpp
+         frametool.cpp
+         fullscreentool.cpp
+         funnelseries.cpp
+         gammacorrectionfilter.cpp
+         ganttseries.cpp
+         gantttool.cpp
+         gaugepointerrange.cpp
+         gaugeseries.cpp
+         gaugeseriespointer.cpp
+         gifexport.cpp
+         gllightsource.cpp
+         glposition.cpp
+         gradient.cpp
+         正在编译...
+         grayscalefilter.cpp
+         gridbandbrush.cpp
+         gridbandtool.cpp
+         gridtransposetool.cpp
+         highlowlineseries.cpp
+         highlowseries.cpp
+         histogramfunction.cpp
+         histogramseries.cpp
+         horizareaseries.cpp
+         horizbarseries.cpp
+         horizboxplotseries.cpp
+         horizhistogramseries.cpp
+         horizlineseries.cpp
+         htmlexport.cpp
+         huelumsatfilter.cpp
+         imagebarseries.cpp
+         imagepointseries.cpp
+         import.cpp
+         isosurfaceseries.cpp
+         jpegexport.cpp
+         正在编译...
+         kagiseries.cpp
+         legend.cpp
+         legenditem.cpp
+         legenditems.cpp
+         legendpalettetool.cpp
+         legendscrollbartool.cpp
+         legendsymbol.cpp
+         legendtitle.cpp
+         levelsegment.cpp
+         lighttool.cpp
+         lineargauge.cpp
+         lineseries.cpp
+         linktool.cpp
+         macdfunction.cpp
+         magnifytool.cpp
+         mappolygon.cpp
+         mappolygonlist.cpp
+         mapseries.cpp
+         margins.cpp
+         marks.cpp
+         正在编译...
+         markscallout.cpp
+         marksitem.cpp
+         markssymbol.cpp
+         markstiptool.cpp
+         medianfunction.cpp
+         metafileexport.cpp
+         mirrorfilter.cpp
+         modefunction.cpp
+         mosaicfilter.cpp
+         movingavgfunction.cpp
+         nativeexport.cpp
+         nearesttool.cpp
+         numericgauge.cpp
+         numericmarker.cpp
+         obvfunction.cpp
+         orgitem.cpp
+         orgitemcollection.cpp
+         orgseries.cpp
+         orgshape.cpp
+         page.cpp
+         正在编译...
+         pagenumtool.cpp
+         panel.cpp
+         pcxexport.cpp
+         pdfexport.cpp
+         pen.cpp
+         performancefunction.cpp
+         piemarks.cpp
+         pieotherslice.cpp
+         pieseries.cpp
+         pietool.cpp
+         pngexport.cpp
+         point3dseries.cpp
+         pointarray.cpp
+         pointer.cpp
+         pointfigureseries.cpp
+         pointseries.cpp
+         polarbarseries.cpp
+         polargridseries.cpp
+         polarseries.cpp
+         printer.cpp
+         正在编译...
+         printersettings.cpp
+         pvofunction.cpp
+         pyramidseries.cpp
+         radarseries.cpp
+         rectangletool.cpp
+         renkoseries.cpp
+         resizefilter.cpp
+         rmsfunction.cpp
+         rotatefilter.cpp
+         rotatetool.cpp
+         rsifunction.cpp
+         sarfunction.cpp
+         scroll.cpp
+         scrollbarthumb.cpp
+         selectortool.cpp
+         series.cpp
+         seriesanimationtool.cpp
+         seriesbandtool.cpp
+         seriesgroup.cpp
+         seriesgroups.cpp
+         正在编译...
+         serieslist.cpp
+         seriesmarkposition.cpp
+         seriesmarkspositions.cpp
+         seriesregiontool.cpp
+         seriesstatstool.cpp
+         shapeseries.cpp
+         sharpenfilter.cpp
+         smithseries.cpp
+         smoothingfunction.cpp
+         smoothpoints.cpp
+         softenfilter.cpp
+         spacing.cpp
+         stddeviationfunction.cpp
+         strings.cpp
+         subgradient.cpp
+         subsetteefunction.cpp
+         surfacenearesttool.cpp
+         surfaceseries.cpp
+         surfacesides.cpp
+         svgexport.cpp
+         正在编译...
+         tablelegend.cpp
+         tagcloudseries.cpp
+         tchart.cpp
+         teecustomshape.cpp
+         teefilter.cpp
+         teefont.cpp
+         teefunction.cpp
+         teeopengl.cpp
+         teepicture.cpp
+         teepoint2d.cpp
+         teepoint3d.cpp
+         teerect.cpp
+         teeshadow.cpp
+         teeshape.cpp
+         teeshapepanel.cpp
+         text3dtool.cpp
+         textexport.cpp
+         tilefilter.cpp
+         titles.cpp
+         toollist.cpp
+         正在编译...
+         tools.cpp
+         towerseries.cpp
+         transposeseriestool.cpp
+         trendfunction.cpp
+         trisurfaceseries.cpp
+         valuelist.cpp
+         valuelists.cpp
+         vector3dseries.cpp
+         videoplayertool.cpp
+         videotool.cpp
+         volumepipeseries.cpp
+         volumeseries.cpp
+         wall.cpp
+         walls.cpp
+         waterfallseries.cpp
+         windroseseries.cpp
+         worldseries.cpp
+         xamlexport.cpp
+         xlsexport.cpp
+         xmlexport.cpp
+         正在编译...
+         zoom.cpp
+         zoomfilter.cpp
+         WriteLog.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /l"0x0804" /IRelease\ /nologo /fo"Release\Laser.res" Laser.rc 
+       Link:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟AGV模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始IP02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\Release\Laser.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\Laser.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟AGV模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始IP02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\Release\Laser.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟AGV模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始IP02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\Release\Laser.lib" /MACHINE:X86 Release\Laser.res
+         Release\AGVTestCfg.obj
+         Release\AGVTestDlg.obj
+         Release\ArmUartDlg.obj
+         Release\BottomLView.obj
+         Release\BottomRView.obj
+         Release\BroadCastDlg.obj
+         Release\ControlForm.obj
+         Release\CRC16.obj
+         Release\DatagramSocket.obj
+         Release\DiagnosisDlg.obj
+         Release\DInterpDlg.obj
+         Release\DustDlg.obj
+         Release\FileUtils.obj
+         Release\CDMLogInfo.obj
+         Release\FPGADownloadDlg.obj
+         Release\GraphForm2d.obj
+         Release\GraphForm2dState.obj
+         Release\GraphForm3d.obj
+         Release\InputDlg.obj
+         Release\InsideApI.obj
+         Release\Interp.obj
+         Release\IssueDlg.obj
+         Release\Laser.obj
+         Release\LaserDoc.obj
+         Release\LaserView.obj
+         Release\MainFrm.obj
+         Release\MySplitter.obj
+         Release\MyWriteLog.obj
+         Release\NetParam.obj
+         Release\NetworkUtils.obj
+         Release\OperateExcelFile.obj
+         Release\ProgramDownDlg.obj
+         Release\Scan2dCfg.obj
+         Release\Scan3dCfg.obj
+         Release\Scanf2dDlg.obj
+         Release\Scanf3dDlg.obj
+         Release\ServerIPDlg.obj
+         Release\SetAppDlg.obj
+         Release\SetFormView.obj
+         Release\SetProdDlg.obj
+         Release\SetRdDlg.obj
+         Release\Si2dCfg.obj
+         Release\SIMUAGVTEST.obj
+         Release\SIMUAGVTESTDLG.obj
+         Release\Single2dDlg.obj
+         Release\stdafx.obj
+         Release\SystemLoad.obj
+         Release\tchart1.obj
+         Release\TemperCfg.obj
+         Release\TemperRecordDlg.obj
+         Release\TopLView.obj
+         Release\TopRView.obj
+         Release\UartCfg.obj
+         Release\UartDataDlg.obj
+         Release\SerialUtils.obj
+         Release\adxfunction.obj
+         Release\amountfilter.obj
+         Release\annotationcallout.obj
+         Release\annotationtool.obj
+         Release\antialiastool.obj
+         Release\areaseries.obj
+         Release\arrowseries.obj
+         Release\aspect.obj
+         Release\averagefunction.obj
+         Release\axes.obj
+         Release\axis.obj
+         Release\axisarrowtool.obj
+         Release\axisgridpen.obj
+         Release\axislabels.obj
+         Release\axislabelsitem.obj
+         Release\axisscrolltool.obj
+         Release\axistitle.obj
+         Release\backimage.obj
+         Release\bannertool.obj
+         Release\bar3dseries.obj
+         Release\barjoinseries.obj
+         Release\barseries.obj
+         Release\bevelfilter.obj
+         Release\bezierseries.obj
+         Release\blurfilter.obj
+         Release\bmpexport.obj
+         Release\bollingerfunction.obj
+         Release\boxplotseries.obj
+         Release\brightnessfilter.obj
+         Release\brush.obj
+         Release\bubble3dseries.obj
+         Release\bubbleseries.obj
+         Release\calendarcell.obj
+         Release\calendarcellupper.obj
+         Release\calendarseries.obj
+         Release\candleseries.obj
+         Release\canvas.obj
+         Release\ccifunction.obj
+         Release\chartaxispen.obj
+         Release\chartfont.obj
+         Release\charthiddenpen.obj
+         Release\chartimagetool.obj
+         Release\circlelabels.obj
+         Release\circulargauge.obj
+         Release\clipseriestool.obj
+         Release\clockseries.obj
+         Release\clvfunction.obj
+         Release\colorbandtool.obj
+         Release\colorfilter.obj
+         Release\colorgridseries.obj
+         Release\colorlinetool.obj
+         Release\compressfunction.obj
+         Release\contourlevel.obj
+         Release\contourlevels.obj
+         Release\contourmarks.obj
+         Release\contourseries.obj
+         Release\contrastfilter.obj
+         Release\cropfilter.obj
+         Release\cursortool.obj
+         Release\curvefittingfunction.obj
+         Release\custom3dpaletteseries.obj
+         Release\customfunction.obj
+         Release\customserieslist.obj
+         Release\darvasseries.obj
+         Release\datatabletool.obj
+         Release\deltapointseries.obj
+         Release\donutseries.obj
+         Release\downsamplingfunction.obj
+         Release\dragmarkstool.obj
+         Release\dragpointtool.obj
+         Release\drawline.obj
+         Release\drawlinelist.obj
+         Release\drawlinetool.obj
+         Release\embossfilter.obj
+         Release\environment.obj
+         Release\epsexport.obj
+         Release\errorbarseries.obj
+         Release\errorseries.obj
+         Release\expavgfunction.obj
+         Release\explodedslices.obj
+         Release\expmovavgfunction.obj
+         Release\export.obj
+         Release\extralegendtool.obj
+         Release\fadertool.obj
+         Release\fastlineseries.obj
+         Release\fibonacciitem.obj
+         Release\fibonaccilevels.obj
+         Release\fibonaccitool.obj
+         Release\filteritems.obj
+         Release\filterregion.obj
+         Release\floatxyz.obj
+         Release\framebrush.obj
+         Release\framedborder.obj
+         Release\frametool.obj
+         Release\fullscreentool.obj
+         Release\funnelseries.obj
+         Release\gammacorrectionfilter.obj
+         Release\ganttseries.obj
+         Release\gantttool.obj
+         Release\gaugepointerrange.obj
+         Release\gaugeseries.obj
+         Release\gaugeseriespointer.obj
+         Release\gifexport.obj
+         Release\gllightsource.obj
+         Release\glposition.obj
+         Release\gradient.obj
+         Release\grayscalefilter.obj
+         Release\gridbandbrush.obj
+         Release\gridbandtool.obj
+         Release\gridtransposetool.obj
+         Release\highlowlineseries.obj
+         Release\highlowseries.obj
+         Release\histogramfunction.obj
+         Release\histogramseries.obj
+         Release\horizareaseries.obj
+         Release\horizbarseries.obj
+         Release\horizboxplotseries.obj
+         Release\horizhistogramseries.obj
+         Release\horizlineseries.obj
+         Release\htmlexport.obj
+         Release\huelumsatfilter.obj
+         Release\imagebarseries.obj
+         Release\imagepointseries.obj
+         Release\import.obj
+         Release\isosurfaceseries.obj
+         Release\jpegexport.obj
+         Release\kagiseries.obj
+         Release\legend.obj
+         Release\legenditem.obj
+         Release\legenditems.obj
+         Release\legendpalettetool.obj
+         Release\legendscrollbartool.obj
+         Release\legendsymbol.obj
+         Release\legendtitle.obj
+         Release\levelsegment.obj
+         Release\lighttool.obj
+         Release\lineargauge.obj
+         Release\lineseries.obj
+         Release\linktool.obj
+         Release\macdfunction.obj
+         Release\magnifytool.obj
+         Release\mappolygon.obj
+         Release\mappolygonlist.obj
+         Release\mapseries.obj
+         Release\margins.obj
+         Release\marks.obj
+         Release\markscallout.obj
+         Release\marksitem.obj
+         Release\markssymbol.obj
+         Release\markstiptool.obj
+         Release\medianfunction.obj
+         Release\metafileexport.obj
+         Release\mirrorfilter.obj
+         Release\modefunction.obj
+         Release\mosaicfilter.obj
+         Release\movingavgfunction.obj
+         Release\nativeexport.obj
+         Release\nearesttool.obj
+         Release\numericgauge.obj
+         Release\numericmarker.obj
+         Release\obvfunction.obj
+         Release\orgitem.obj
+         Release\orgitemcollection.obj
+         Release\orgseries.obj
+         Release\orgshape.obj
+         Release\page.obj
+         Release\pagenumtool.obj
+         Release\panel.obj
+         Release\pcxexport.obj
+         Release\pdfexport.obj
+         Release\pen.obj
+         Release\performancefunction.obj
+         Release\piemarks.obj
+         Release\pieotherslice.obj
+         Release\pieseries.obj
+         Release\pietool.obj
+         Release\pngexport.obj
+         Release\point3dseries.obj
+         Release\pointarray.obj
+         Release\pointer.obj
+         Release\pointfigureseries.obj
+         Release\pointseries.obj
+         Release\polarbarseries.obj
+         Release\polargridseries.obj
+         Release\polarseries.obj
+         Release\printer.obj
+         Release\printersettings.obj
+         Release\pvofunction.obj
+         Release\pyramidseries.obj
+         Release\radarseries.obj
+         Release\rectangletool.obj
+         Release\renkoseries.obj
+         Release\resizefilter.obj
+         Release\rmsfunction.obj
+         Release\rotatefilter.obj
+         Release\rotatetool.obj
+         Release\rsifunction.obj
+         Release\sarfunction.obj
+         Release\scroll.obj
+         Release\scrollbarthumb.obj
+         Release\selectortool.obj
+         Release\series.obj
+         Release\seriesanimationtool.obj
+         Release\seriesbandtool.obj
+         Release\seriesgroup.obj
+         Release\seriesgroups.obj
+         Release\serieslist.obj
+         Release\seriesmarkposition.obj
+         Release\seriesmarkspositions.obj
+         Release\seriesregiontool.obj
+         Release\seriesstatstool.obj
+         Release\shapeseries.obj
+         Release\sharpenfilter.obj
+         Release\smithseries.obj
+         Release\smoothingfunction.obj
+         Release\smoothpoints.obj
+         Release\softenfilter.obj
+         Release\spacing.obj
+         Release\stddeviationfunction.obj
+         Release\strings.obj
+         Release\subgradient.obj
+         Release\subsetteefunction.obj
+         Release\surfacenearesttool.obj
+         Release\surfaceseries.obj
+         Release\surfacesides.obj
+         Release\svgexport.obj
+         Release\tablelegend.obj
+         Release\tagcloudseries.obj
+         Release\tchart.obj
+         Release\teecustomshape.obj
+         Release\teefilter.obj
+         Release\teefont.obj
+         Release\teefunction.obj
+         Release\teeopengl.obj
+         Release\teepicture.obj
+         Release\teepoint2d.obj
+         Release\teepoint3d.obj
+         Release\teerect.obj
+         Release\teeshadow.obj
+         Release\teeshape.obj
+         Release\teeshapepanel.obj
+         Release\text3dtool.obj
+         Release\textexport.obj
+         Release\tilefilter.obj
+         Release\titles.obj
+         Release\toollist.obj
+         Release\tools.obj
+         Release\towerseries.obj
+         Release\transposeseriestool.obj
+         Release\trendfunction.obj
+         Release\trisurfaceseries.obj
+         Release\valuelist.obj
+         Release\valuelists.obj
+         Release\vector3dseries.obj
+         Release\videoplayertool.obj
+         Release\videotool.obj
+         Release\volumepipeseries.obj
+         Release\volumeseries.obj
+         Release\wall.obj
+         Release\walls.obj
+         Release\waterfallseries.obj
+         Release\windroseseries.obj
+         Release\worldseries.obj
+         Release\xamlexport.obj
+         Release\xlsexport.obj
+         Release\xmlexport.obj
+         Release\zoom.obj
+         Release\zoomfilter.obj
+         Release\WriteLog.obj
+         Mwic_32.lib
+         正在生成代码
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始ip02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(175): warning C4715: “CDustDlg::OnDustR”: 不是所有的控件路径都返回值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始ip02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\laser\setappdlg.cpp(313): warning C4715: “CSetAppDlg::OnHeatBack”: 不是所有的控件路径都返回值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始ip02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\laser\network\networkutils.cpp(704): warning C4715: “ConnectServer7070”: 不是所有的控件路径都返回值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始ip02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(1000): warning C4715: “GraphForm2d::OnTemperRecordShow”: 不是所有的控件路径都返回值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始ip02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(448): warning C4715: “CGraphForm2dState::OnVersion”: 不是所有的控件路径都返回值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始ip02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(171): warning C4715: “ThreadNetKeyState”: 不是所有的控件路径都返回值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始ip02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(609): warning C4789: 内存复制的目标太小
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始ip02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(610): warning C4789: 内存复制的目标太小
+         已完成代码的生成
+         Laser.vcxproj -> E:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟AGV模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始IP02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\Release\Laser.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟AGV模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始IP02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\Release\Laser.exe;#1" /manifest Release\Laser.exe.intermediate.manifest "d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+     1>已完成生成项目“E:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟AGV模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始IP02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\Laser\Laser.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:39.83

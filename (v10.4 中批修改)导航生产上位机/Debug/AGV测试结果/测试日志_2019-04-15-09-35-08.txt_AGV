@@ -1,0 +1,139 @@
+
+========09:35:08 匀速测试========
+
+09:35:09 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:09 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:10 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:10 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:10 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:10 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:10 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:10 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:11 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:11 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:11 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:11 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:11 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:11 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:11 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:12 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:12 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:12 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:12 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:14 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:14 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:14 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:14 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:14 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:14 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:14 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:14 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:14 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:14 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:14 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:14 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:14 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:15 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:15 sAN mNPOSGetPose 1 6 1 0
+       解析为无效数据
+
+09:35:15 sAN mNPOSGetPose 1 0 1 1 0 0 57E0E 1 1 EF43F 0 1 4349E7 5
+解析后为：1, 0, 0, 806319, EF43F
+09:35:15 sAN mNPOSGetPose 1 0 1 1 0 0 57E0E 1 1 EF4BB 0 1 4349E7 5
+解析后为：2, 0, 0, 124, EF4BB
+09:35:15 sAN mNPOSGetPose 1 0 1 1 0 4 0 1 1 EF538 0 1 4349E7 5
+解析后为：3, 0, 4, 125, EF538
+09:35:16 sAN mNPOSGetPose 1 0 1 1 0 0 57E0E 1 1 EF630 0 1 4349E7 5
+解析后为：4, 0, 0, 248, EF630
+09:35:16 sAN mNPOSGetPose 1 0 1 1 FFFFFFFF 0 57E0E 1 1 EF6AC 0 1 4349E7 5
+解析后为：5, -1, 0, 124, EF6AC
+09:35:16 sAN mNPOSGetPose 1 0 1 1 FFFFFFFE 1 57E0E 1 1 EF728 0 1 4349E7 5
+解析后为：6, -2, 1, 124, EF728
+09:35:16 sAN mNPOSGetPose 1 0 1 1 0 0 57E0E 1 1 EF7A5 0 1 4349E7 5
+解析后为：7, 0, 0, 125, EF7A5
+09:35:16 sAN mNPOSGetPose 1 0 1 1 0 0 57E0E 1 1 EF89D 0 1 4349E7 5
+解析后为：8, 0, 0, 248, EF89D
+09:35:16 sAN mNPOSGetPose 1 0 1 1 FFFFFFFF 1 0 1 1 EF91A 0 1 4349E7 5
+解析后为：9, -1, 1, 125, EF91A
+09:35:16 sAN mNPOSGetPose 1 0 1 1 FFFFFFFE 0 57E0E 1 1 EF996 0 1 4349E7 5
+解析后为：10, -2, 0, 124, EF996
+09:35:17 sAN mNPOSGetPose 1 0 1 1 0 FFFFFFFF 57DDC 1 1 EFA12 0 1 4349E7 5
+解析后为：11, 0, -1, 124, EFA12
+09:35:17 sAN mNPOSGetPose 1 0 1 1 FFFFFFFF 0 57E0E 1 1 EFA8F 0 1 4349E7 5
+解析后为：12, -1, 0, 125, EFA8F
+09:35:17 sAN mNPOSGetPose 1 0 1 1 0 0 57E0E 1 1 EFB87 0 1 4349E7 5
+解析后为：13, 0, 0, 248, EFB87
+09:35:17 sAN mNPOSGetPose 1 0 1 1 0 0 57E0E 1 1 EFC03 0 1 4349E7 5
+解析后为：14, 0, 0, 124, EFC03
+09:35:17 sAN mNPOSGetPose 1 0 1 1 0 FFFFFFFF 57E0E 1 1 EFC7F 0 1 4349E7 5
+解析后为：15, 0, -1, 124, EFC7F
+09:35:17 sAN mNPOSGetPose 1 0 1 1 FFFFFFFF 0 57E0E 1 1 EFCFB 0 1 4349E7 5
+解析后为：16, -1, 0, 124, EFCFB
+09:35:18 sAN mNPOSGetPose 1 0 1 1 0 0 57E0E 1 1 EFDF4 0 1 4349E7 5
+解析后为：17, 0, 0, 249, EFDF4
