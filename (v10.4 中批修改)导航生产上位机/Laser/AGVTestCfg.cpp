@@ -1875,7 +1875,7 @@ UINT ThreadSavePXDataExcel(LPVOID pParam)//偏心数据保存到EXCEL，生成偏心表，下载
 		if (i == 0)
 		{
 			//计算原始值1
-			g_sMeasurePXInfo[i].m_OriginalOne == 0;
+			g_sMeasurePXInfo[i].m_OriginalOne = 0;
 		}
 		else
 		{

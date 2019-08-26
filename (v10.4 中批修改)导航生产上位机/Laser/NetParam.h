@@ -51,7 +51,7 @@ extern bool f_CorrectionNetState;//码盘偏心修正中用到的网络连接状态判断标志
 extern CWinThread *pThread1;
 const int NET_BUF_NUM = 1000;
 extern CString LaserMAC;//激光器MAC地址
-extern CString fileLaserMAC;
+extern CString fileLaserMAC;//文件名称 目前是和Mac地址一样，后期也许会改，所以留次变量
 extern int g_nNetRecvInd;
 extern char g_cNetRecvBuf[NET_BUF_NUM][10000];
 extern int g_nNetRecvSize[NET_BUF_NUM];

@@ -74,7 +74,7 @@ CScan2dCfg::CScan2dCfg(CWnd* pParent /*=NULL*/)
 	, m_ediProbability(0)
 	, m_nSigDataCmdCnt(0)
 {
-
+	m_dealnegative = false;//190826加 不加的话在release下默认为true 就会导致切后的波形看起来异常
 	m_nangle_num = 1;
 	m_nDrawNum = 1;
 	m_nFrameID = 1;

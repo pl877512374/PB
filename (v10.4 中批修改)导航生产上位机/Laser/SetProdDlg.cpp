@@ -233,7 +233,7 @@ LONG CSetProdDlg::OnProdNetWork(WPARAM wParam, LPARAM lParam)
 	LaserMAC = m_strEquipMac;
 	if (LaserMAC.GetLength() > 12)
 	{
-		fileLaserMAC = LaserMAC.Mid(12);
+		fileLaserMAC = LaserMAC;// LaserMAC.Mid(12);
 	}
 	UpdateData(false);
 	GetDlgItem(IDC_BTN_NetWork_WR)->EnableWindow(true);

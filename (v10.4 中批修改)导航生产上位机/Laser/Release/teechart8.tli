@@ -1,9 +1,9 @@
-﻿// Created by Microsoft (R) C/C++ Compiler Version 10.00.30319.01 (c85ab14d).
+﻿// Created by Microsoft (R) C/C++ Compiler Version 12.00.21005.1 (c4b92228).
 //
-// e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0711 cfile加了close 回零100改50 初始ip02 v100 release 非偏心用\(v10.4 中批修改)导航生产上位机\laser\release\teechart8.tli
+// e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\release\teechart8.tli
 //
 // Wrapper implementations for Win32 type library C:\\Windows\\System32\\TeeChart8.ocx
-// compiler-generated file created 07/15/19 at 12:49:21 - DO NOT EDIT!
+// compiler-generated file created 08/26/19 at 16:35:14 - DO NOT EDIT!
 
 
 //

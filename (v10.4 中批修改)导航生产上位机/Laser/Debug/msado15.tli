@@ -1,9 +1,9 @@
-﻿// Created by Microsoft (R) C/C++ Compiler Version 10.00.30319.01 (22cbf7c9).
+﻿// Created by Microsoft (R) C/C++ Compiler Version 10.00.30319.01 (cbc469a7).
 //
-// c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\debug\msado15.tli
+// e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\debug\msado15.tli
 //
 // Wrapper implementations for type library C:\\Program Files\\Common Files\\System\\ADO\\msado15.dll
-// compiler-generated file created 06/05/19 at 10:31:49 - DO NOT EDIT!
+// compiler-generated file created 08/26/19 at 16:18:28 - DO NOT EDIT!
 
 #pragma once
 

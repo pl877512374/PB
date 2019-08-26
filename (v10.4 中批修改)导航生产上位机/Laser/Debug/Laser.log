@@ -1,5 +1,5 @@
-﻿生成启动时间为 2019/6/5 10:31:42。
-     1>项目“C:\Users\0\Desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\Laser\Laser.vcxproj”在节点 2 上(Rebuild 个目标)。
+﻿生成启动时间为 2019/8/26 16:18:22。
+     1>项目“E:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟AGV模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始IP02 v120 release\(v10.4 中批修改)导航生产上位机\Laser\Laser.vcxproj”在节点 2 上(Rebuild 个目标)。
      1>ClCompile:
          d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\Laser /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Laser.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
          stdafx.cpp
@@ -300,7 +300,7 @@
          amountfilter.cpp
          adxfunction.cpp
          SerialUtils.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\uart\serialutils.cpp(241): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\uart\serialutils.cpp(241): warning C4018: “<”: 有符号/无符号不匹配
          UartDataDlg.cpp
          UartCfg.cpp
          TopRView.cpp
@@ -311,298 +311,298 @@
          SystemLoad.cpp
          Single2dDlg.cpp
          SIMUAGVTESTDLG.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\caxis.h(3): warning C4278: “LoadImage”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\caxis.h(3): warning C4278: “LoadImage”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\caxis.h(3): warning C4278: “TextOut”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\caxis.h(3): warning C4278: “LoadImage”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\caxis.h(3): warning C4278: “LoadImage”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\caxis.h(3): warning C4278: “LoadImage”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\caxis.h(3): warning C4278: “LoadImage”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\caxis.h(3): warning C4278: “TextOut”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\caxis.h(3): warning C4278: “LoadImage”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\caxis.h(3): warning C4278: “LoadImage”: 类型库“C:\\Windows\\System32\\TeeChart8.ocx”中的标识符已经是宏；使用“rename”限定符
          正在生成代码...
          正在编译...
          SIMUAGVTEST.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(202): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(208): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(209): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(255): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(256): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(507): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(630): warning C4305: “初始化”: 从“double”到“float”截断
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(738): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(799): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(804): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(928): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(202): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(208): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(209): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(255): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(256): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(507): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(630): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(738): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(799): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(804): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(928): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(940): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\simuagvtest.cpp(940): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
          Si2dCfg.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\si2dcfg.cpp(404): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\si2dcfg.cpp(404): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\si2dcfg.cpp(449): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\si2dcfg.cpp(449): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\si2dcfg.cpp(596): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\si2dcfg.cpp(596): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\si2dcfg.cpp(844): warning C4101: “dlen”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\si2dcfg.cpp(1021): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\si2dcfg.cpp(844): warning C4101: “dlen”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\si2dcfg.cpp(1021): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\si2dcfg.cpp(1173): warning C4244: “=”: 从“short”转换到“unsigned char”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\si2dcfg.cpp(1173): warning C4244: “=”: 从“short”转换到“unsigned char”，可能丢失数据
          SetRdDlg.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setrddlg.cpp(222): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setrddlg.cpp(222): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
          SetProdDlg.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(15): warning C4244: “初始化”: 从“const float”转换到“const int”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(16): warning C4244: “初始化”: 从“const float”转换到“const int”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(19): warning C4244: “初始化”: 从“const float”转换到“const int”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(20): warning C4244: “初始化”: 从“const float”转换到“const int”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(151): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(154): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(157): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(263): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(268): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(274): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(318): warning C4244: “=”: 从“u32”转换到“unsigned char”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(323): warning C4244: “=”: 从“u32”转换到“unsigned char”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(328): warning C4244: “=”: 从“u32”转换到“unsigned char”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(426): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(475): warning C4244: “=”: 从“u32”转换到“unsigned char”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(16): warning C4244: “初始化”: 从“const float”转换到“const int”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(17): warning C4244: “初始化”: 从“const float”转换到“const int”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(20): warning C4244: “初始化”: 从“const float”转换到“const int”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(21): warning C4244: “初始化”: 从“const float”转换到“const int”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(152): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(155): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(158): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(268): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(273): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(279): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(323): warning C4244: “=”: 从“u32”转换到“unsigned char”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(328): warning C4244: “=”: 从“u32”转换到“unsigned char”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(333): warning C4244: “=”: 从“u32”转换到“unsigned char”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(431): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setproddlg.cpp(480): warning C4244: “=”: 从“u32”转换到“unsigned char”，可能丢失数据
          SetFormView.cpp
          SetAppDlg.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setappdlg.cpp(160): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setappdlg.cpp(162): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setappdlg.cpp(167): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setappdlg.cpp(160): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setappdlg.cpp(162): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setappdlg.cpp(167): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
          ServerIPDlg.cpp
          Scanf3dDlg.cpp
          Scanf2dDlg.cpp
          Scan3dCfg.cpp
          Scan2dCfg.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(370): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(371): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(310): warning C4101: “pView1”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(602): warning C4101: “pView1”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(898): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(911): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(913): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(927): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(1146): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(370): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(371): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(310): warning C4101: “pView1”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(602): warning C4101: “pView1”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(898): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(911): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(913): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(927): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(1146): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(1191): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(1191): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(1464): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(1577): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(1464): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\scan2dcfg.cpp(1577): warning C4018: “<”: 有符号/无符号不匹配
          ProgramDownDlg.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(120): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(120): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(135): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(120): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(120): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(135): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(150): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(150): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(201): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(201): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(230): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(230): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(246): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(246): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(276): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(276): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(150): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(150): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(201): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(201): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(230): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(230): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(246): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(246): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(276): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\programdowndlg.cpp(276): warning C4309: “初始化”: 截断常量值
          OperateExcelFile.cpp
          NetworkUtils.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\network\networkutils.cpp(201): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\network\networkutils.cpp(239): warning C4018: “<=”: 有符号/无符号不匹配
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\network\networkutils.cpp(983): warning C4309: “=”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\network\networkutils.cpp(984): warning C4309: “=”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\network\networkutils.cpp(1039): warning C4101: “len”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\network\networkutils.cpp(201): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\network\networkutils.cpp(239): warning C4018: “<=”: 有符号/无符号不匹配
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\network\networkutils.cpp(992): warning C4309: “=”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\network\networkutils.cpp(993): warning C4309: “=”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\network\networkutils.cpp(1048): warning C4101: “len”: 未引用的局部变量
          NetParam.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(171): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(171): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(173): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(173): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(177): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(177): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(179): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(179): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(183): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(183): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(185): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(185): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(195): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(232): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(232): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(232): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(232): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(172): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(172): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(174): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(174): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(178): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(178): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(180): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(180): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(184): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(184): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(186): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(186): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(196): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(233): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(233): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(233): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\netparam.cpp(233): warning C4309: “初始化”: 截断常量值
          MyWriteLog.cpp
          MySplitter.cpp
          MainFrm.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(425): warning C4101: “thread1”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(2058): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(2476): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(62): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(63): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(64): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(65): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(66): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(67): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(68): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(69): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(70): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(71): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(72): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(73): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(74): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(75): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(76): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(77): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(78): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(430): warning C4101: “thread1”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(2063): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\mainfrm.cpp(2481): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
          LaserView.cpp
          LaserDoc.cpp
          正在生成代码...
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\network\networkutils.cpp(704): warning C4715: “ConnectServer7070”: 不是所有的控件路径都返回值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\setappdlg.cpp(313): warning C4715: “CSetAppDlg::OnHeatBack”: 不是所有的控件路径都返回值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\network\networkutils.cpp(704): warning C4715: “ConnectServer7070”: 不是所有的控件路径都返回值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\setappdlg.cpp(313): warning C4715: “CSetAppDlg::OnHeatBack”: 不是所有的控件路径都返回值
          正在编译...
          Laser.cpp
          IssueDlg.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(194): warning C4101: “pView1”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(558): warning C4101: “sztmp”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(573): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(573): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1387): warning C4101: “szDesResult”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1548): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(194): warning C4101: “pView1”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(558): warning C4101: “sztmp”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(573): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(573): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1387): warning C4101: “szDesResult”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1548): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1856): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1856): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1946): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1946): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1982): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1982): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(2055): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(2055): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(2107): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(2107): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(2906): warning C4101: “szDesResult”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1856): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1856): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1946): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1946): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1982): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(1982): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(2055): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(2055): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(2107): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(2107): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(2906): warning C4101: “szDesResult”: 未引用的局部变量
          Interp.cpp
          InsideApI.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\insideapi.cpp(130): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\insideapi.cpp(541): warning C4101: “str”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\insideapi.cpp(130): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\insideapi.cpp(541): warning C4101: “str”: 未引用的局部变量
          InputDlg.cpp
          GraphForm3d.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(214): warning C4091: “”: 没有声明变量时忽略“double”的左侧
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(292): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(301): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(355): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(241): warning C4101: “tlen”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(453): warning C4091: “”: 没有声明变量时忽略“double”的左侧
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(553): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(485): warning C4101: “tlen”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(456): warning C4101: “l_u8flag”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(467): warning C4101: “l_psNetData”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(214): warning C4091: “”: 没有声明变量时忽略“double”的左侧
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(292): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(301): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(355): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(241): warning C4101: “tlen”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(453): warning C4091: “”: 没有声明变量时忽略“double”的左侧
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(553): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(485): warning C4101: “tlen”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(456): warning C4101: “l_u8flag”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(467): warning C4101: “l_psNetData”: 未引用的局部变量
      1>d:\program files (x86)\microsoft visual studio 10.0\vc\include\utility(163): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\utility(255): 参见对正在编译的函数 模板 实例化“std::_Pair_base<_Ty1,_Ty2>::_Pair_base<_Ty,_Ty>(_Other1 &&,_Other2 &&)”的引用
                  with
@@ -653,7 +653,7 @@
                      _Ty=std::pair<double,double>,
                      _Valty=std::pair<double,double>
                  ]
-                 c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(321): 参见对正在编译的函数 模板 实例化“std::_Tree_iterator<_Mytree> std::multimap<_Kty,_Ty>::insert<std::pair<_Ty1,_Ty2>>(_Valty &&)”的引用
+                 e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(321): 参见对正在编译的函数 模板 实例化“std::_Tree_iterator<_Mytree> std::multimap<_Kty,_Ty>::insert<std::pair<_Ty1,_Ty2>>(_Valty &&)”的引用
                  with
                  [
                      _Mytree=std::_Tree_val<std::_Tmap_traits<int,double,std::less<int>,std::allocator<std::pair<const int,double>>,true>>,
@@ -713,7 +713,7 @@
                      _Ty=std::pair<double,int>,
                      _Valty=std::pair<double,int>
                  ]
-                 c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(325): 参见对正在编译的函数 模板 实例化“std::_Tree_iterator<_Mytree> std::multimap<_Kty,_Ty>::insert<std::pair<_Ty1,_Ty2>>(_Valty &&)”的引用
+                 e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform3d.cpp(325): 参见对正在编译的函数 模板 实例化“std::_Tree_iterator<_Mytree> std::multimap<_Kty,_Ty>::insert<std::pair<_Ty1,_Ty2>>(_Valty &&)”的引用
                  with
                  [
                      _Mytree=std::_Tree_val<std::_Tmap_traits<int,double,std::less<int>,std::allocator<std::pair<const int,double>>,true>>,
@@ -724,142 +724,141 @@
                      _Valty=std::pair<double,int>
                  ]
          GraphForm2dState.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(136): warning C4309: “参数”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(195): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(200): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(321): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(333): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(345): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(348): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(357): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(360): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(369): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(136): warning C4309: “参数”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(195): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(200): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(321): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(333): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(345): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(348): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(357): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(360): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(369): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
          GraphForm2d.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(362): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(362): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(436): warning C4101: “nSeriesNumZhi”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(700): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(508): warning C4101: “lTime”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(574): warning C4101: “l_n32DataSi”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(862): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(867): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(872): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(877): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(882): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(885): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(886): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(887): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(888): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(891): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(892): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(893): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(895): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(896): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(897): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(898): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(902): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(905): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(821): warning C4101: “l_n32j”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(821): warning C4101: “l_n32i”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(823): warning C4101: “l_n32DataSi”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(960): warning C4101: “l_n32DataNum”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(959): warning C4101: “l_n32j”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(959): warning C4101: “l_n32i”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(961): warning C4101: “l_n32DataSi”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(436): warning C4101: “nSeriesNumZhi”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(700): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(508): warning C4101: “lTime”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(574): warning C4101: “l_n32DataSi”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(862): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(867): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(872): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(877): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(882): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(885): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(886): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(887): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(888): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(891): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(892): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(893): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(895): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(896): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(897): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(898): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(902): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(905): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(821): warning C4101: “l_n32j”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(821): warning C4101: “l_n32i”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(823): warning C4101: “l_n32DataSi”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(960): warning C4101: “l_n32DataNum”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(959): warning C4101: “l_n32j”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(959): warning C4101: “l_n32i”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(961): warning C4101: “l_n32DataSi”: 未引用的局部变量
          FPGADownloadDlg.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fpgadownloaddlg.cpp(184): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fpgadownloaddlg.cpp(184): warning C4309: “初始化”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fpgadownloaddlg.cpp(186): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\fpgadownloaddlg.cpp(184): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\fpgadownloaddlg.cpp(184): warning C4309: “初始化”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\fpgadownloaddlg.cpp(186): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fpgadownloaddlg.cpp(269): warning C4309: “=”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fpgadownloaddlg.cpp(270): warning C4309: “=”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\fpgadownloaddlg.cpp(269): warning C4309: “=”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\fpgadownloaddlg.cpp(270): warning C4309: “=”: 截断常量值
          CDMLogInfo.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\file\cdmloginfo.cpp(44): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\file\cdmloginfo.cpp(44): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
          FileUtils.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fileutils.cpp(105): warning C4244: “return”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fileutils.cpp(264): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\fileutils.cpp(105): warning C4244: “return”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\fileutils.cpp(264): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\io.h(299) : 参见“access”的声明
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fileutils.cpp(279): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\fileutils.cpp(279): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\io.h(299) : 参见“access”的声明
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fileutils.cpp(433): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\fileutils.cpp(433): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\fileutils.cpp(435): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\fileutils.cpp(435): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
          DustDlg.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(162): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(164): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(165): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(166): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(167): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(168): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(169): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(170): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(171): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(172): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(252): warning C4309: “=”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(283): warning C4309: “=”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(314): warning C4309: “=”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(345): warning C4309: “=”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(375): warning C4309: “=”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(405): warning C4309: “=”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(435): warning C4309: “=”: 截断常量值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(465): warning C4309: “=”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(162): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(164): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(165): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(166): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(167): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(168): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(169): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(170): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(171): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(172): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(252): warning C4309: “=”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(283): warning C4309: “=”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(314): warning C4309: “=”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(345): warning C4309: “=”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(375): warning C4309: “=”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(405): warning C4309: “=”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(435): warning C4309: “=”: 截断常量值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(465): warning C4309: “=”: 截断常量值
          DInterpDlg.cpp
          DiagnosisDlg.cpp
          DatagramSocket.cpp
          CRC16.cpp
          ControlForm.cpp
          BroadCastDlg.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\broadcastdlg.cpp(495): warning C4101: “thread”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\broadcastdlg.cpp(619): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\broadcastdlg.cpp(495): warning C4101: “thread”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\broadcastdlg.cpp(619): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
          BottomRView.cpp
          BottomLView.cpp
          正在生成代码...
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(175): warning C4715: “CDustDlg::OnDustR”: 不是所有的控件路径都返回值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(1000): warning C4715: “GraphForm2d::OnTemperRecordShow”: 不是所有的控件路径都返回值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(448): warning C4715: “CGraphForm2dState::OnVersion”: 不是所有的控件路径都返回值
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(171): warning C4715: “ThreadNetKeyState”: 不是所有的控件路径都返回值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\dustdlg.cpp(175): warning C4715: “CDustDlg::OnDustR”: 不是所有的控件路径都返回值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2d.cpp(1000): warning C4715: “GraphForm2d::OnTemperRecordShow”: 不是所有的控件路径都返回值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\graphform2dstate.cpp(448): warning C4715: “CGraphForm2dState::OnVersion”: 不是所有的控件路径都返回值
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\issuedlg.cpp(171): warning C4715: “ThreadNetKeyState”: 不是所有的控件路径都返回值
          正在编译...
          ArmUartDlg.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\armuartdlg.cpp(143): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\armuartdlg.cpp(143): warning C4018: “<”: 有符号/无符号不匹配
          AGVTestDlg.cpp
          AGVTestCfg.cpp
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1105): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1111): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1112): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1120): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1121): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1266): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1106): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1112): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1113): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1121): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1122): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1267): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1278): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1279): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1333): warning C4305: “初始化”: 从“double”到“float”截断
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1440): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1501): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1506): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1680): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1850): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1861): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1863): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1872): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1877): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1903): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1908): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(2039): warning C4101: “dlen”: 未引用的局部变量
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(2149): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1334): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1441): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1502): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1507): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1681): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1851): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1862): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1864): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1873): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1904): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(1909): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(2040): warning C4101: “dlen”: 未引用的局部变量
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(2150): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(2242): warning C4244: “=”: 从“short”转换到“unsigned char”，可能丢失数据
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(2442): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\0\desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(2500): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(2243): warning C4244: “=”: 从“short”转换到“unsigned char”，可能丢失数据
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(2445): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟agv模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始ip02 v120 release\(v10.4 中批修改)导航生产上位机\laser\agvtestcfg.cpp(2517): warning C4018: “<”: 有符号/无符号不匹配
          正在生成代码...
        ResourceCompile:
          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /l"0x0804" /IDebug\ /nologo /fo"Debug\Laser.res" Laser.rc 
        ManifestResourceCompile:
          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Laser.exe.embed.manifest.res" Debug\Laser_manifest.rc 
        Link:
-         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\0\Desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\Debug\Laser.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Laser.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\0\Desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\Debug\Laser.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\0\Desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\Debug\Laser.lib" /MACHINE:X86 Debug\Laser.res
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟AGV模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始IP02 v120 release\(v10.4 中批修改)导航生产上位机\Debug\Laser.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Laser.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟AGV模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始IP02 v120 release\(v10.4 中批修改)导航生产上位机\Debug\Laser.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟AGV模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始IP02 v120 release\(v10.4 中批修改)导航生产上位机\Debug\Laser.lib" /MACHINE:X86 Debug\Laser.res
          Debug\Laser.exe.embed.manifest.res
          Debug\AGVTestCfg.obj
          Debug\AGVTestDlg.obj
@@ -1190,7 +1189,7 @@
          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Laser.exe.embed.manifest" /manifest Debug\Laser.exe.intermediate.manifest "d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Laser.exe.embed.manifest.res" Debug\Laser_manifest.rc 
        LinkEmbedManifest:
-         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\0\Desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\Debug\Laser.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Laser.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\0\Desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\Debug\Laser.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\0\Desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\Debug\Laser.lib" /MACHINE:X86 Debug\Laser.res
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟AGV模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始IP02 v120 release\(v10.4 中批修改)导航生产上位机\Debug\Laser.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Laser.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟AGV模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始IP02 v120 release\(v10.4 中批修改)导航生产上位机\Debug\Laser.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟AGV模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始IP02 v120 release\(v10.4 中批修改)导航生产上位机\Debug\Laser.lib" /MACHINE:X86 Debug\Laser.res
          Debug\Laser.exe.embed.manifest.res
          Debug\AGVTestCfg.obj
          Debug\AGVTestDlg.obj
@@ -1517,9 +1516,9 @@
          Debug\zoomfilter.obj
          Debug\WriteLog.obj
          Mwic_32.lib
-         Laser.vcxproj -> C:\Users\0\Desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\Debug\Laser.exe
-     1>已完成生成项目“C:\Users\0\Desktop\(v10.4 中批修改)导航生产上位机 自动偏心修正0604 cfile加了close 回零100改50 v100\(v10.4 中批修改)导航生产上位机\Laser\Laser.vcxproj”(Rebuild 个目标)的操作。
+         Laser.vcxproj -> E:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟AGV模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始IP02 v120 release\(v10.4 中批修改)导航生产上位机\Debug\Laser.exe
+     1>已完成生成项目“E:\712导航雷达\712相关文件\712生产版源码\偏心修正加模拟AGV模块\(v10.4 中批修改)导航生产上位机 自动偏心修正0826 cfile加了close 回零100改50 初始IP02 v120 release\(v10.4 中批修改)导航生产上位机\Laser\Laser.vcxproj”(Rebuild 个目标)的操作。
 
 生成成功。
 
-已用时间 00:01:24.67
+已用时间 00:01:06.87
